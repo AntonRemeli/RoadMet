@@ -1,0 +1,94 @@
+     P.breakhere {page-break-before: always}
+
+
+.smallgrey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.smallgreyBold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	font-weight: bold;
+
+}
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	color: #F20006;
+	text-decoration: underline;
+}
+a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	color: #666666;
+	text-decoration: none;
+}
+.smallergrey {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+}
+.smallergreyBold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	font-weight: bold;
+
+}
+.midgreyBoldCopy {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+}
+.smallllergrey {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+}
+.titlegreyBoldCopy {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	font-weight: bold;
+}
+.smallgreyBoldCopy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	font-weight: bolder;
+	border: 0px solid;
+
+}
+
+.MBold {
+	font-family: Monotype Corsiva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #333333;
+	font-weight: bold;
+}
+

@@ -1,0 +1,18 @@
+#! /bin/sh
+
+
+killall -9 gbd@.sh
+
+screen -dmS gbd@ /drv0/html/@@/gbd@.sh /drv0/html/@@/bore /drv0/html/@@/boreas 2
+
+
+
+ps ax |grep apache2
+ps ax |grep mysql
+ps ax |grep php
+ps ax |grep gbd
+ps ax |grep oka
+
+screen -wipe
+###/etc/init.d/vsftpd restart
+exit 0

@@ -1,0 +1,870 @@
+<?
+
+
+$elõre_visszaléptetés="skok naprijed-nazad";
+$átlagértékek="prosjek";
+
+
+$aadi="minutni";
+$aadt="10min  ";
+$aadh="sat ";
+$aads="6sati";	
+$aadn="dnevni";
+$aadw="nedjeljni ";
+$aadm="mjesečni ";
+$aadq="kvartalni ";	
+$aady="godinji ";	
+
+$vadi="jedna minuta";
+$vadt="10 minuta";
+$vadh="jedan sat";
+$vads="6 sati";	
+$vadn="jedan dan";
+$vadw="jedna nedjelja";
+$vadm="jedan mjesec";
+$vadq="èetvrt godine";	
+$vady="jedna godina";	
+
+
+$Észrevétel =' Primjedeba / Greka / Pitanje: ';
+$Válasz='Odgovor:';
+
+
+$hibaleírás = 'opis greke:';
+$tennivaló = 'zadatak:';
+$munkajegyzet = 'radna biljeka:';
+$mikor = 'kada:';
+$zárójelentés = 'zakljuèak:';
+$áttét = 'prijenos:';
+
+
+
+$Riasztás = 'Alarm:';
+
+$szövegg = 'tekst (max.120 karaktera)';
+
+
+$lokális ='lokalno uzbunjivanje';
+
+$lokálistelefonszámra = 'lokalno uzbunjivanje i slanje na slijedeæi telefon:';
+
+
+$Egyérvényesriasztásikritériumban = 'Ispravni alarmni kriterij treba zavravati na toèku.\r\nPoslijednji kriterij sa \"dodavanje kriterija\" opcijom moete dodati.';
+
+$zárójelelhelyezése  = 'smijetanje zagrade';
+
+$zárójeltörlése = 'brisanje zagrade';
+
+$kritériumtörlése = 'brisanje kriterija';
+
+$Riasztásküldése = 'Slanje alarma';
+
+$Nincsnyitottzárójel = 'Nije postavljena otvorena zagrada!';
+
+$Nincsbezártzárójel = 'Nije postavljena zatvorena zagrada!';
+
+$Nemadottmegtelefonszámot = 'Nije dat broj telefona!';
+
+$Nemadottmegriasztásiszöveget = 'Niste zadali tekst alarma!';
+
+$Ariasztásszövegemaximum ='Duljina teksta alarma moe biti najvie 128 karaktera!';
+
+$AzÖnáltalmegadottriasztásikritérium = 'Zadati alarmni kriterij je sljedeæi:';
+
+$Kívánjaelmenteni = 'elite pohraniti?';
+
+$Kéremadjamegmilyennévre = 'Recite pod kojim imenom da pohranimo alarmnni kriterij';
+
+$aléghõmérséklet = 'temperatura zraka';
+
+$apáratartalom ='relativna vlaga';
+
+$aharmatpont = 'toèka rosita';
+
+$azútpályahõmérséklet = 'temperatura kolnika';
+
+$avegyitényezõ = 'slanost kolnika';
+
+$afagypont = 'temperatura ledita';
+
+$acsapadékintenzitás = 'int. padalina ';
+
+$avízréteg = 'voda na kolniku';
+
+$azútállapot = 'stanje kolnika';
+
+$nagyobb = 'veæa od';
+
+$kisebb = 'manja od';
+
+$egyenlõ = 'jednaka';
+
+$nemegyenlõ = 'nije jednaka';
+
+$nagyobbvagyegyenlõ = 'veæa ili jednaka';
+
+$kisebbvagyegyenlõ = 'manja ili jednaka';
+
+$értéknél = 'vrijednosti ';
+
+$nél = ' ';
+
+$nál = ' ';
+
+$tovább = 'dalje';
+
+$és = 'i';
+
+$vagy = 'ili';
+
+$kritériumhozzáadása = 'dodavanje kriterija';
+
+$mentés = 'pohranjivanje';
+
+$amikor ='kada je';
+
+
+
+
+$BepillantásAlarm = ' Uvid u funkcioniranje  <i>  A l a r m n o g   S u s t a v a </i>   :';
+
+$Leazoldalaljára = ' Dolje na dno stranice ';
+
+$alábbiállomásai = ' sljedeæe postaje su spremne za alarm ';
+
+$nyugtázottriasztásai =' potvrðeni alarmi ';
+
+$Visszaazoldaltetejére ='Nazad na poèetak stranice';
+
+$AzÚTMETrendszerbebeléptek ='Ulogirali su se u CestaMet sustav';
+
+
+$a = 'u ';
+
+$ikmásodpercben ='. sekundi, alarm broj ';
+
+$számúriasztáslekérdezés ='';
+
+$RIASZTÁS = 'ALARM';
+
+$riasztásifeltételenemteljesült = ' alarmni uslov nije ispunjen';
+
+
+
+
+
+$vissza ='nazad u grupni status!';
+
+$fel ='ARGIS zemljopisna karta!';
+
+
+$Nincskiv ='Nema odabrane upanije, molimo odaberite neku!';
+
+
+$service = '&stm=9500&stn=9555&st1=-4&st2=-1&tm1=1&tm2=3&zrk=&serv0=2&ns=';
+
+
+$ÚTIF='ARGIS';
+
+$térinformatikaimegjelenítés=' ivi zemljopisni prikaz';
+
+
+$b = array("Á" ,"á" ,"É" ,"é" ,"Í" ,"í" ,"Ó" ,"ó" ,"Ö" ,"ö" ,"Õ" ,"õ" ,"Ú" ,"ú" ,"Ü" ,"ü" ,"Û" ,"û" ,"€" , ">"  ,"<"   ,"" ,"" ,"Ð" ,"ð" ,"" ,"" ,"È" ,"è" ,"Æ" ,"æ");
+$u = array("Ã","Ã¡","Ã","Ã©","Ã","Ã­","Ã","Ã³","Ã","Ã¶","Å","Å","Ã","Ãº","Ã","ÃŒ","Å°","Å±","Â€","&gt;","&lt;","Å ","Å¡","Ä","Ä","Åœ","ÅŸ","Ä","Ä","Ä","Ä");
+
+
+$helyzetkÃ©p ='mjereno stanje';
+
+
+$rakozelit='pribliÅŸi';
+
+$LhÅm='Zrak';
+
+$ÃhÅm='Cesta';
+
+$Fpont='Led';
+
+$pÃ¡ra='Vlaga';
+
+$VÃ­zr='Voda';
+
+$csap = 'Padaline';
+
+$grso ='Sol';
+
+
+$OrszÃ¡g='Zemlja';
+
+$VÃROSFALUneve='Ime GRADA/SELA';
+
+$keres='traÅŸi';
+
+
+
+
+$ÃºtkmszelvÃ©ny='Cesta km+m';
+
+$Megj='Primjedba';
+
+$szUTMETmÃ©rÅhely='Meteopostaja';
+
+
+$Hely='Lokacija';
+
+$ÃtÃ¡llapota='Stanje kolnika';
+
+$Grafikon='Grafikon';
+
+$Statisztika='Statistika';
+
+$Egyebek='Ostalo';
+
+$sÃºt='Cesta';
+
+$air_tempp='Temp.zraka';
+
+$surf_tempp='Temp.ceste';
+
+$surf_salt='Toèka zamrzavanja';
+
+$air_hum='Rel.vlaga';
+
+$surf_water_depthh='Vodeni sloj';
+
+$RELOAD = 'UkljuÄi cijeli sustav';
+
+$cv=50;
+$ccv=99;
+
+
+$ln='hr'; 
+$Lng='hrvatski';
+$UTMETFÕszerver='Hrvatski CestaMET';
+
+
+
+
+$KÉREMAZONOSÍTSAMAGÁT="MOLIMO IDENTIFIKUJTE SE! <b>sustav èe se sad vratit na polaznu stranu:</b> ";
+
+
+$OMSZelorejelzése='Prognoza Dravnog Hidrometeorolokog Zavoda';
+
+$MarOMSZ='Radar Bilogora (DHMZ, sdraj zatiæen licencnim pravima)';
+
+$Atartalomel='Klikni na sliku da vidi sadraj';
+
+$MaSzHoSzRad='Prognoza za Hrvatsku';
+
+$BUEK='elimo Vam spokojan Boiæ i uspjenu novu godinu';
+
+
+if(date("m",time())>11 || date("m",time())<2){
+$logingif='BuekAR2.jpg';
+$BUEK='elimo Vam spokojan Boiæ i uspjenu novu godinu';
+} else {
+$logingif='login.gif';
+$BUEK='elimo Vam uspjeno deurstvo';
+}
+
+
+
+$Felhasználó='Korisnik:';
+
+$Jelszó='Lozinka:';
+
+$Ügyeletesneve='Ime deurnog:';
+
+$BelépésazÚTMETrendszerbe=' Ulogiranje u CESMET sustav ';
+
+$ahrefRiaszt='<a  href="http://195.56.65.42/riasztHr.html"><b>.................... Instalacija novog<big><big><u> CESMET brozera </u></big></big> za uporabu <i><big>ALARMNOG SUSTAVA</big></i></a></b><br><br>';
+
+$böngészõ='brozer:';
+
+$polig='U  ';
+$lota=' ulogirali su se :';
+
+
+
+$AMp='Hrvatski cestovno-meteorloki portal';
+
+$A=''; 
+$MKht='  ';
+$MKhr=' <img alt="logo" src="hr/elektromodul-promet.jpg" width="181" height="34" align="center"
+    title="'.$AMp.'" border="0"> ';
+$ump='';
+
+$bgcolor='bgcolor="#5CCCF2"';
+
+$aszo=' Sat raèunala ';
+$pkv=' minute kasni !! <br>Molimo, podesite toèno vrijeme vaeg raèunala.';
+$psv=' minute uri !! <br>Molimo, podesite toèno vrijeme vaeg raèunala.';
+
+$scrvar='
+var dayarray=new Array("Nedjelja","Ponedjeljak","Utorak","Srijeda","Èetvrtak","Petak","Subota")
+var montharray=new Array("sijeèanj", "veljaèa", "oujak", "travanj", "svibanj", "lipanj", "srpanj", "kolovoz", "rujan", "listopad", "studeni", "prosinac")
+var aszo="Sat raèunala"
+var pkv="minute kasni !! <br>Molimo, podesite toèno vrijeme vaeg raèunala."
+var psv="minute uri !! <br>Molimo, podesite toèno vrijeme vaeg raèunala."
+';
+
+$scrdatX='
+var cdate=" "+dayarray[day]+", "+daym+" "+montharray[month]+" "+year+", "+hours+":"+minutes+":"+seconds+" <br>UnixTime (sec od 1970-te): "+ido+"  "+idoF+" </div>"
+';
+
+$scrdat='
+var cdate=" "+dayarray[day]+", "+daym+" "+montharray[month]+" "+year+", "+hours+":"+minutes+":"+seconds+" </div>"
+';
+
+
+$FÕszerver='GLAVNA centrala';
+
+$Szerver='Centrala';
+
+$státusz='stanje';
+
+$TÜKÖRszerver='ZRCALNA centrala';
+
+$POLIGLOTAszerver='POLIGLOTNA centrala';
+
+
+$Felhasználó='Korisnik';
+
+$Terület='Teritorij';
+
+$Ittvm='Izbor teritorija:';
+
+$OMSZadatai='Podaci Dravnog hidrometeorlokog zavoda';
+
+$MarWZ='Hrvatski radar (DHMZ) / Europska prognoza padalina (WetterZentrale)';
+
+$Ma5HT='Temperaturna mapa Madjarske, svjei podaci svakih 5 minuta';
+
+$Ma5FH='Mapa oblaènosti Madjarske, svjei podaci svakih 5 minuta';
+
+$KiLép='Izlazak iz CestaMet sustava';
+
+//$OMSZ='DHMZ';
+
+$EMSel='Prognoza Europske Meteoroloke Slube';
+
+//$EMSEWS='EWS prognoza';
+
+$Idõképek='';
+
+$Kilépés='Izlaz';
+
+$Riasztás='Uzbunjivanje';
+
+$Oldalfrissítés='Osvjeavanje podataka';
+
+$Raadas='<i> D o d a t a k : </i> najsvjeiji mjerni podaci cestovno-meteorolokih postaja:';
+
+$Bepill=' Pogled u funkcioniranje  <i>  E k s p e r t n o g  S u s t a v a  </i> :';
+
+
+$Nincsmérésiadat='Nema mjerenih podataka';
+
+$állomáslma='najsvjeiji mjerni podaci ';
+
+$Grafikonmka='Klikni na naziv stanice da vidi grafikonn ';
+
+$Táblázatmkd='Klikni na datum da vidi tablicu ';
+
+$Ptapáratartalom='Rvz = %  relativna vlaga zraka';
+
+$Lhõléghõmérséklet='Tzr = °C temperatura zraka';
+
+$Thõtalajhõmérséklet='Tlo = °C temperatura tla';
+
+$Vtévegyitényezõ='Sol = gr/m2 kemijski faktor';
+
+$Vrvvízréteg='Vod = mm vodeni sloj';
+
+$Hptharmatpont='Tkn = °C toèka kondenzacije';
+
+$Uhõútpályahõm='Tkl = °C temp.kolnika';
+
+$Fptfagypont='Tzl = °C toèka zaleðenja';
+
+$UpáÚtpályaállapot='Stk = Stanje kolnika';
+
+$Csicsapadék='Kob = mm/d int.padalina';
+
+$Táptápfeszültség='Nap = V napon napajanja';
+
+$CstCsapadéktipus='Vob = Vrsta padalina';
+
+
+$scroll='	
+ <b><i> Utorak, 19 veljaèa 2008, &nbsp;</b> </i>
+&nbsp;&nbsp;&nbsp;
+Molimo postovane korisnike portala za strepljenje. Portal se svakodnevno doradjuje!
+   <b>  </b> <b><i> .<br>
+  <b>  EurMet doo. konstantno razvija sve komponente sustava za rano otkrivanje skliskosti kolnika. Naa je nakana da Zimskoj Slubi Hrvatskih Cesta obezbjedimo pouzdan <i>CESTOVNO-METEOROLOKI</i> sustav.   </b>
+';
+
+
+
+
+$Grafikonmegtek='Za dobit grafikon klikni na ime stanice';
+
+$Táblázatmegtek='Za dobit tablicu klikni na datum';
+
+$állomáslegfr='stanice najsvjeiji podaci ';
+
+$Táblázatmegteknyilacskára='Za dobit tablicu klikni na strelicu';
+
+$TESCOkamera='Za dobit slike TESCO kamere klikni na  "pogledam" natpis';
+
+$TESCOkörhídiBoreas='Slike TESCO webkamere';
+
+$állomáswebkamerájának='u tabelarnom prikazu:';
+
+$ötpercesgyakoriságúhelyzetképtáblázata='';
+
+
+
+$Legfrisebbmérésiadatok='Najsvjeiji mjerni podaci mogu se vidjet na dnu tablice: >>';
+
+$Visszatáblázattetejére =' Nazad na vrh tablice ';
+
+$Visszanapelejére =' Nazad 24 sata ';
+
+
+
+$HIBALISTA='LISTA GREAKA';
+
+$REKLAMÁCIÓK='REKLAMACIJE';
+
+$klímaterület='/ klimatska zona:';
+
+$Csoportstátusz='Grupni<br> status';
+
+$Mérésgrafikon='Mjerni <br> grafikon';
+
+$Méréstáblázat='Mjerna<br>  tablica';
+
+$Állomásstatisztika='Statistièki<br> podaci';
+
+$Riasztásállítása='Alarm<br> konfigurator';
+
+$Hibajelentés='Prijava<br> greke';
+
+
+
+
+$Idõ=' Vrijeme';
+
+$Páratart='Rel.<br>vlaga(%)';
+
+//$Harmatpont='Toèka rosita(C)';
+
+$Levegõhõm='Temp. zraka (C)';
+
+$Útpályahõm='Temp. kolnika (C)';
+
+$Talajhõm='Temp. tla (C)';
+
+//$Fagypont='Toèka zaleðivanja(C) ';
+
+$Vegyit='Kemijski faktor<br>g/m<small><sup>2</sup></small> ';
+
+$Útállapot='Stanje kolnika';
+
+$Csapadék='Padaline<br>(mm/d)';
+
+$Csapadéktipus='Vrsta<br>padalina ';
+
+$Vízréteg='Vodeni film<br>(mm)';
+
+$Táp='Napon (V) ';
+
+
+$TápVw='Napon';
+
+$Relparaw='Rel.vlaga';
+
+$Fagypontw='Toèka zaleðivanja';
+
+$Úthõmw='Temp.kolnika';
+
+$Léghõmw='Temp.zraka';
+
+$Harmatpontw='Toèka rosita';
+
+$Csapadékmmhw='Padaline';
+
+$Vízrétegmmdw='Vodeni sloj';
+
+
+$Regionálisáttekintés='';
+
+$Szervízmunkák='Servis';
+
+$Teljesítésigazolás='';
+
+$Állomástáblázat='';
+
+
+
+$Adat='Mjerni';
+
+$listázásdátum='podaci od datum';
+
+$tól='a';
+
+$Kezdõidõválasztása='Izbor poèetnog vremena';
+
+$Záróidõkiválasztása='Izbor zavrnog vremena';
+
+$pppdátum='do datum';
+
+$ig='a';
+
+
+$kepeklogo1gif=' src="hr/cestamet_portal.jpg" width="419" height="116" ';
+
+$wh01=' width="77" height="22" ';
+
+$httpkozuthu='http://elektromodul.hr/';
+
+
+
+
+$i="'";
+
+$httpmethu='http://meteo.hr/index.php';
+$httpakmimethu='http://meteo.hr/index.php';
+
+$kepekbuttonsbutton_omszgif='<img src="../kepek/buttons/DHMZ.gif"';
+
+$zaglif='onmouseover="this.T_LEFT=true;this.T_WIDTH=500;return escape(\'<img src=../kepek/buttons/zaglavlje.gif>\')"';
+
+
+$Radarphp='http://prognoza.hr/tri_karta.php?id=tri&param=Osjecko-baranjska&code=Osijek';
+
+//$radarIMG='   width="222" height="148"  onmouseover="this.T_LEFT=true;this.T_WIDTH=500;return escape('.$i.'<img src=http://vrijeme.hr/bradar-anim.gif>'.$i.')"';
+
+$radarIMG=' <img name="slikar" src="http://vrijeme.hr/bradar.gif" width="222" height="148"  onmouseover="this.T_LEFT=true;this.T_WIDTH=500;return escape('.$i.'<img src=http://vrijeme.hr/bradar-anim.gif>'.$i.')"';
+
+
+$K1img='';
+
+$K2img='';
+
+$köd = 'Magla';
+$led='Status kolnika, mokar, sklizak (crveno)';
+
+
+$TápV='Napon akum. (V)';
+
+$Fagypont='Ledite (C)';
+
+$Úthõm='Temper.ceste(C)';
+
+$Léghõm='Temper. zraka (C)';
+
+$Harmatpontt='Toèka rosita ';
+
+$Csapadékmmh='Intenzitet padalina (mm/d)';
+
+$Vízrétegmmd='Vodeni sloj mm/10';
+
+$ÚtállapoNAPÓRA='Stanje kolnika | DAN/SAT';
+
+
+
+$Rum=' sat:min  %vlaga  temp. rosita zraka ceste tla  mraza / sol  kolnik padaline  vodeni sloj';
+
+
+
+$service = '&stm=9500&stn=9555&st1=-4&st2=-1&tm1=1&tm2=3&zrk=&serv0=2&ns=';
+
+$SzervizLista = 'Servisni pregled';
+
+$állomásszám = 'poèetna stanica';
+
+$kezdöállomás ='krajnja stanica';
+
+$alsóhibakód ='donji kod greke';
+
+$felsöhibakód ='gornji kod greke';
+
+$oszlopszélesség ='irina stupca';
+
+$alsószervizkód ='donji servisni kod';
+
+$felsõszervizkód ='gornji servisni kod';
+
+$régiószürö ='filtar za regije';
+
+$nyomtatható ='printabilna tablica';
+
+$alsóköltség ='donji troak';
+
+$felsõköltség ='gornji troak';
+
+$kezdöidö ='poèetno vrijeme';
+
+$záróidö ='zakljuèno vrijeme';
+
+$hibaszürö ='hnn filtar greke ';
+$szoftverfejlesztésnek =' ili 0 za softverski razvoj';
+
+
+
+
+$MeghibásodottUTMETállomások='Iskljuèene CestaMet stanice';
+
+$óra='sata';
+
+$hét='tjedan';
+
+
+$Tervezettszervizbevetések='Planirano servisiranje';
+
+$helyszín='mjesto';
+
+$nyomtassKi='printajMe!';
+
+
+$Jelentésazelvégzettszervizmunkákról='Izvjeæe o obavljenom servisnom zadatku';
+
+
+$ÉszrevételHibabejelentés='Primjedba / Dojava greke';
+
+$Név='Ime';
+
+$Megyeváros='upanija / naselje';
+
+$Bejelentésjellege='Vrsta dojave';
+
+$Kéremválaszon='Odaberite molim';
+
+$Weboldalhiba='Grijeka WEB stranice';
+
+$Állomáshiba='Grijeka stanice';
+
+$Észrevételkérdés='Primjedba-pitanje';
+
+$Kritikajavaslat='Kritika, prijedlog';
+
+$Elérhetõség='Kontakt';
+
+$Észrevételrészletesleírása='Detaljan opis primjedbe';
+
+$Elküld='alji';
+
+$Törlés='Brii';
+
+
+$Megye='upanija';
+
+$Datum='Datum';
+
+$Felhasználóihibajelentés='Korisnièka dojava greke';
+
+$UTMETválasz='Odgovor deurnog';
+
+
+
+$Állomásszám='Broj stanice';
+
+$Helység='Naselje';
+
+$Tipus='Tip';
+
+$Helyszín='Mjesto';
+
+$Földrajziszélesség='Zemljopisna irina';
+	
+$Földrajzihosszúság='Zemljopisna duljina';
+
+$Klima='Klima';
+
+$MagyarKözútKht='Hrvatske Ceste';
+
+$Mérnökség='Nadcestarija';
+
+$ISzhelység='Pot.broj, naselja';
+
+$Címutca='Ulica';
+
+$Telefon='Telefon';
+
+$Fax='Fax';
+
+$EMail='E-Mail';
+
+$Fagyosnapok='Ledni dani izmeðu';
+
+$között='';
+
+$Mérésiidõ='Mjerno vrijeme';
+
+$Léghõmérséklet='Temperatura zraka';
+
+$Útpályahõmérséklet='Temperatura kolnika';
+
+$Átlaghõmérséklet='Prosjeèna Temperatura';
+
+$mérésiadatalapján='na osnovu mjernih podataka';
+
+$Télinapok='Zimski dani izmeðu';
+
+$Átlagléghõmérséklet='Prosjeèna temperatura';
+
+$Átlagútpályahõmérséklet='Prosjeèna temperatura kolnika';
+
+$Napiátlaghõmérséklet='Dnevna prosjeèna temperatura';
+
+$Azállomásrendelkezésreállása='Raspoloivost stanice izmeðu';
+
+$intervallumban='';
+
+$Kimaradáskezdete='Poèetak prekida';
+
+$Kimaradásvége='Kraj prekida';
+
+$Kimaradástartama='Trajanje prekida';
+
+$Összóra='Ukupno sati';
+
+$Teljesítettóraszázalék='Ispunjeno sati ( u postotku )';
+
+$Teljesítettmérésvártadat='Realizirana mjerenja / oèekivani podatci';
+
+$mérés='mjereno od oèekivanih  ';
+
+$vártadatból='';
+
+
+
+$TESCOfeliratra ='Klikni na sliku da bi video sve snimke';
+
+$TESCOkamera ='Najnoviji snimci raskræa:';
+
+$TESCOvisszalapozás ='Da vidi starije slike klikni na "<< nazad " napis';
+
+$visszalapozás ='<< nazad || ';
+
+$TESCOfrissítéséhez ='Kilikni ovdje da bi osvjeio snimke';
+
+$képek ='slike od';
+
+$tõl = '   -  do ';
+
+$ig = '';
+
+$Válaszol='Odgovor';
+
+
+$datemdH[$pp]=$ppdy[$pp].'.'.$ppmt[$pp].' '.$pphr[$pp].':'.$ppmi[$pp];
+$dateYmdH[$pp]=$ppdy[$pp].' '.$ppmt[$pp].' '.$ppyr[$pp].' '.$pphr[$pp].':'.$ppmi[$pp];
+
+
+$date0YmdHi=$pp0dy.'.'.$pp0mt.'.'.$pp0yr.' '.$pp0hr.':'.$pp0mi;
+
+$date1Hi=$pp1hr.':'.$pp1mi;
+
+$TESCOújabb ='Da vidi novije slike klikni na "naprijed >> " napis';
+
+$elõrelapozás =' || naprijed >> ';
+
+
+
+$todotx='U planu je kontrola stanice uz redovno kalibriranje. Molimo prisustvo CESTARA,';	
+$todutx=' tko æe obezbijediti regulaciju prometa za kalibraciju kolnièkog osjetila. Planirano za:';
+$diagtx='Funkcionalna cestovno meteoroloka postaja za dojavu poledice. ';	
+
+
+
+
+
+
+$sTdsc[1] ='</big>Servisna nakana<big>';
+$sTdsc[2] ='Procjena stanja ';
+$sTdsc[3] ='</big>Kalibracijski obrazac<big> ';
+$sTdsc[4] ='Jamstveni list ';
+$sTdsc[5] ='';
+
+$sTdscA ='   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b><big><big><big><big>';
+$sTdscB =' </b></big></big></big></big>	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  broj: <big><big><b>'. $_GET['svid'] .' </b></big></big> ';
+
+$szerviz ='servis';
+$számú ='';
+$Felkérésbe ='Zahtjev za intervenciju';
+
+$helyszínn ='&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+mjesto: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+$útkmsz ='cesta,km+m poz.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+$földrajzi ='zemljopisna duljina i irina,&nbsp;&nbsp;';
+
+$XY ='X-Y koordinate,&nbsp;&nbsp;&nbsp;&nbsp;';
+$klímazóna ='klimatska zona:';
+
+//$területileg ='teritorijalno nadljena cestarina';
+//$regionális ='regionalna centrala';
+$területileg ='';
+$regionális ='korisnik';
+$cím ='&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  adresa: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+
+$kalibrálási[1] = ''; 
+$kalibrálási[2] = ''; 
+$kalibrálási[3] = 'kalibracioni postupak: Boreas1 automaska kalibraciona postaja, UTMET baza podataka, 2 i 20g/m2 slanog rastvora.'; 
+$kalibrálási[4] = 'RoadMet postaja instalirana od strane ovlatenog servisnog partnera ima godinu dana jamstva na komponente.'; 
+ 
+$megfelelõ[1] =''; 
+$megfelelõ[2] ='';
+$megfelelõ[3] ='(u sluèaju odgovarajuæe kalibracija toèka zaleðivanja pada na -10C,  u oblaèno vrijeme bez vjetra rel.vlanost zraka, temperatura zraka i ceste poklapaju se sa vrijednostima kalibratora)';   
+$megfelelõ[4] ='(u sluèaju kvara proizvodaè æe dostavljenu neispravnu komponentu bez nadoknade zamijeniti. Vlasnik je odgovoran za demontiranje i montiranje, transport i carinsku proceduru)';   
+
+
+$qstxt0[1] ='Molimo kontrolu Boreas cestovno-meteoroloke RoadMet stanice';
+$qstxt0[2] ='U planu je uvidaj Boreas cestovno-meteoroloke RoadMet stanice';
+$qstxt0[3] ='U planu je kalibracija Boreas cestovno-meteoroloke RoadMet stanice';
+$qstxt0[4] ='U planu je instaliranje Boreas cestovno-meteoroloke RoadMet stanice';
+
+$qtodo0[4] = 'Molimo prisustvo CESTARA zarad obezbijeðenja regulacije prometa u navedeno vrijeme:';
+$qtodo0[4] = 'Molimo prisustvo CESTARA zarad obezbijeðenja regulacije prometa u navedeno vrijeme:';
+$qtodo0[4] = 'Molimo prisustvo CESTARA zarad obezbijeðenja regulacije prometa u navedeno vrijeme:';
+$qtodo0[4] = 'Molimo prisustvo CESTARA zarad obezbijeðenja regulacije prometa u navedeno vrijeme:';
+
+
+$Felkérés ='Zahtjev:';
+$Hibaleírás[1] ='Molba:';
+$Hibaleírás[2] ='Opis zadatka:';
+$Hibaleírás[3] ='Opis greke:';
+$Hibaleírás[4] ='Opis radova:';
+$Zárójelentés ='Zakljuèak';
+
+$hívószám ='&nbsp; tel.broj:&nbsp;';
+$vezérlõ = 'upr.modul:';
+$hygrotemp ='&nbsp;hygrotemp:&nbsp; ';
+$modem ='&nbsp;modem:&nbsp;';
+$útszonda ='koln.sonda:';
+$csapadékmérõ ='&nbsp;osj. padalina:&nbsp;';
+$Állomásstátusz='Status postaje';
+$kezdeményezte ='Intervenciju je inicirao:';
+$tanúsítja[1] = ' Zahtjev inicirao:';
+$tanúsítja[2] = ' Intervenciju inicirao:';
+$tanúsítja[3] = ' Kalibraciju potvrðuje:';
+$tanúsítja[4] = ' Jamstvo potvrduje:';
+$végezte[1] ='Zadatak je obavio:';
+$végezte[2] ='Umjeravanje je obavio:';
+$végezte[3] ='Mjerenja je obavio:';
+$végezte[4] ='Instalaciju je obavio:';
+$nyugtázza ='Izvrenje zadatka potvrðuje:';
+$Aláírás ='Potpis:';
+$Kelt ='Datum izdavanja:';
+$tstmp = date("d.m.Y",strtotime($rowS[kada] . " GMT")-3600);
+
+
+
+
+
+
+
+
+
+?>

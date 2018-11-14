@@ -1,0 +1,40 @@
+Baja | 028 | Karapancsa | 413.09 | 413.12 | 508.08 | B | 0 | 0 | 15m 0Ft | 0 | ok, törmelékes, vezetékes talaj miatt arrébbtéve | minden rendben | 
+Baja | 029 | Sárhát II. (Homorúd) | 413.08 | 413.08 | 508.12 | B | 1 | 0 | 22m, helyszín módosítás Mohács-Homorúd gátőrházra (45.968669,18.779486), kerítés NEM KELL! | 2 | ok, kötött talaj | minden rendben | 
+Baja | 031 | Soltszentimre | 416.14 | 419.07 | 421.08 | B | 1 | drótcsere | 5m, nincs drótcsere, udvarba, kerítés NEM KELL! | 1 | ok, kötött tömör talaj | ok, a nulla földelve, Pluvionak nincsen szintezője, 120 Ohm bekötése szükséges | 21.17,50ig volt
+Baja | 033 | Solt | 416.15 | 419.12 | 510.08 | B | 1 | 0 | 22m kerítés NEM KELL! ló, birka? | 2 | ok, erősen kötött rögös száraz talaj | | 
+Székesfehérvár | 034 | Báta | 416.11 | 416.13 | 502.12 | B | 0 | 0 | 10m | 1 | ok, laza talaj | | 
+Székesfehérvár | 038 | Adony | 405.16 | 406.08 | 424.08 | C | 0 | 0 | 50m | 3 | | | 
+Pécs | 045 | Drávaszabolcs | 413.16 | 416.08 | 517.10 | B | 1 | 0 | 7m sziklás, kerítés NEM KELL!, üzemen kívüli saroklámpa kábele használható | 1 | ok, törmelékes talaj, földelőnyársat nem lehet leverni, fektetni kell | | 
+Pécs | 047 | Villány | 413.17 | 414.13 | 517.14 | B | 0 | 0 | 20m | 1 | ok, laza talaj | | 
+Pécs | 050 | Szentlőrinc | 413.14 | 414.07 | 511.12 | A | 0 | 0 | 0m, áram helyben! | 0 | ok, kötött talaj nincs földelőcső és sapka | |
+Nyíregyháza | 062 | Szamosújlak | 410.15 | 411.15 | 515.12 | B | 0 | 0 | 8m | 1 | ok, kötöttebb laza talaj | | 
+Nyíregyháza | 067 | Mátészalka | 410.13 | 411.12 | 515.08 | A | 0 | favágás | 22m | 1 | ok, homokos talaj | | 
+Miskolc | 071 | Tokaj | 410.11 | 411.08 | 516.10 | A | 0 | 0 | 18m | 1 | ok, laza talaj | központi resetre másfélórán át újraindulgatott mire sikerült (tesztelés Lajosmizsén) | antenna kell, csapadékmérő teteje Meratban maradt
+Miskolc | 073 | Encs | 410.09 | 410.12 | 423.12 | A | 0 | 0 | 12mx | 1 | ok, laza talaj | áramszünet bejelentve 2012.ápr.24.-én, adatok rendben, 120 Ohm bekötése szükséges, pluvio gyári számát fel kell írni | ok 24reggel óta megy, csak pluvio van
+Debrecen | 085 | Balmazújváros | 403.14 | 403.16 | 415.12 | B | 0 | 0 | 0m | 0 | | pluvio rs485 adatágcsere, 120 Ohm bekötése szükséges | 23.11-kor leállt
+Debrecen | 087 | Hajdúszoboszló | 403.13 | 403.13 | 414.08 | A | 0 | 0 | 11m | 1 | ok, laza talaj | pluvio rs485 adatágcsere , 120 Ohm bekötése szükséges | 
+Debrecen | 088 | Hajdúnánás | 403.15 | 404.08 | 417.08 | B | 1 | 0 | 5m kőkemény | 1 | ok, kötött talaj, nincs földelőbilincs | nincs pluvio adat, 120 Ohm bekötése szükséges, a nulla földelve, nincs földelőbilincs | modem sincs
+Debrecen | 089 | Tiszalök | 403.17 | 404.12 | 418.08 | A | 0 | 0 | 10m | 1 | ok, törmelékes talaj, nincs földelőbilincs | ok, nincs földelőbilincs, 120 Ohm bekötése szükséges | hol van hol nincs
+Szolnok | 097 | Kunhegyes | 406.14 | 410.08 | 425.12 | B | 0 | 0 | 15m | 2 | ok, törmelékes talaj | 120 Ohm bekötése szükséges | 
+Szolnok | 098 | Kétpó | 406.13 | 406.15 | 424.08 | B | 0 | 1 | 25m | 2 | ok, kötött talaj, nincs földelőbilincs | pluviot kell felszerelni | 
+Szolnok | 099 | Tiszaörvény | 406.15 | 413.08 | 427.08 | C | 0 | 0 | 0m | 0 | | | 
+Szolnok | 100 | Kunszentmárton | 406.11 | 406.11 | 425.08 | B | 0 | 0 | 8m | 1 | ok, kötöttebb laza talaj, nincs földelőbilincs | nincs pluvio adat, 120 Ohm bekötése szükséges | 
+Szolnok | 101 | Lakitelek | 417.11 | 417.15 | 428.08 | B | 0 | 0 | 12m homok | 1 | ok, laza talaj | minden rendben | 
+Szolnok | 103 | Törtel | 417.09 | 417.11 | 502.08 | A | 0 | 1 | 0m lengőkábel oszlopra | 0 | ok, laza talaj | minden rendben | 
+Szolnok | 107 | Cegléd | 417.08 | 417.08 | 426.08 | B | 0 | 1 | 60m homok | 3 | ok, laza talaj | erős áram megszerelve | 
+Szolnok | 109 | Kisköre | 406.18 | 418.08 | 427.12 | C | 0 | 0 | 0m | 0 | | | 
+Szeged | 112 | Jászszentlászló | 418.08 | 421.07 | 430.12 | B | 0 | 1 | 45m | 3 | ok, homokos gyepes talaj | erős áram megszerelve | 
+Szeged | 113 | Kiskunfélegyháza | 417.13 | 418.12 | 428.08 | B | 0 | 1 | 13m homok | 1 | ok, homokos talaj | erős áram megszerelve | 
+Szeged | 114 | Makó | 418.14 | 421.11 | 505.08 | B | 0 | 0 | 33m homok | 2 | ok, kötött agyagos talaj | minden rendben | 
+Szeged | 115 | Kéktó | 418.16 | 421.08 | 428.12 | C | 1 | 0 | 7m sár, új koordináták, Huszár ABC-nél jobbra 300m | 1 | | | 
+Szeged | 117 | Tiszaalpár | 417.12 | 418.07 | 427.12 | B | 0 | 1 | 13m homok | 2 | ok, kötött agyagos száraz talaj, földelőcső és fedő hiányzik | minden rendben | 
+Szeged | 120 | Szikáncs csat. őrh. | 418.15 | 420.12 | 429.12 | C | 1 | 0 | 30m homok, kerítés NEM KELL! | 2 | | | 
+Szeged | 121 | Baks-Dongér g.h. | 417.15 | 421.12 | 428.08 | C | 1 | 1 | 9m, kerítés NEM KELL! | 1 | | | 
+Szeged | 122 | Kübekháza csat. Őrh. | 418.13 | 422.08 | 429.08 | C | 1 | 1 | 35m homok, kerítés NEM KELL! | 2 | | | 
+Gyula | 126 | Elek | 411.17 | 420.08 | 422.08 | C | 1 | 0 | 38m | 3 | | | modem sincs
+Gyula | 127 | Gyula-Itceér | 411.16 | 421.07 | 420.11 | A | 0 | 0 | 10m | 2 | ok, bazalttörmelékes sérülésveszélyes talaj | ok, akkumulátoráthidaló kábel pótolva, működési gond Utek feladata | 21.06 leállt, csak m odem van
+Gyula | 134 | Ecsegfalva | 411.09 | 412.07 | 502.16 | B | 0 | 0 | 19m | 2 | ok, kötött talaj | minden rendben, hiányzik a higroklip shildje | 
+Gyula | 137 | Dévaványa | 411.10 | 413.15 | 430.08 | C | 1 | 0 | 25m udvarba áthelyezve, kerítés NEM KELL! | 3 | | | 
+Gyula | 138 | Peres | 411.12 | 412.15 | 502.12 | A | 0 | 0 | 13m, Gyula-Itzeér rendbehozatala | 2 | ok, jobban kötött talaj | KPE csövek rögzítése az oszlophoz szükséges | 
+Gyula | 139 | Gyoma | 411.11 | 412.11 | 509.12 | B | 1 | 0 | 15m kerítés NEM KELL! | 2 | ok, kötött talaj | | 
+Győr | 001 | Tatabánya | | | | B | 0 | 0 | | | | | 

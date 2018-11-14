@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<markers>
+	<marker id="542"  station_id="9503"  type="0"  reply_to="0"  name=""  county=""  description=""  user="a"  contact="" 	
+/>	<marker id="555"  station_id="9501"  type="0"  reply_to="0"  name=""  county=""  description="wwwwwwwww"  user="A"  contact="" 	
+/>	<marker id="556"  station_id="9501"  type="0"  reply_to="0"  name=""  county=""  description="qqqqqqqq"  user="A"  contact="" 	
+/>	<marker id="568"  station_id="9504"  type="0"  reply_to="0"  name="OZ"  county=""  description="Az alábbi állomások BPS szenzoraira került védõkarima:
+
+          Solt, Simontornya, Böhönye, Pogányszentpéter, Becsehely, Murarátka, Zalakomár,
+          Ordacsehi elág.
+"  user="orova"  contact="" 	
+/>	<marker id="574"  station_id="9502"  type="2"  reply_to="0"  name="danijel pfeiffer"  county="osijek"  description="Stanici na mostu Osijek nedostaje podataka.
+08.09. je stanica stala oko 9 sati,a 09.09 u grupnom statusu ima podataka za 12.52 sati.
+ Tablica i grafikon na pokazuju te podatke.
+Stanica se i prije znala 'zalediti' što se otklanjalo resetom.Molio bih malo detaljnije podatke koliko poruka nedostaje i koliko èesto."  user="Osijek"  contact="danijel.pfeiffer@elektromodul.hr" 	
+/>	<marker id="604"  station_id="9507"  type="2"  reply_to="0"  name="Roman"  county="Beli Manastir"  description="Stanica u kvaru od 04.12.2008 u 13:20"  user="osijek"  contact="091 223 21 52" 	
+/>	<marker id="610"  station_id="9512"  type="0"  reply_to="0"  name="Mario JackaniÄ‡"  county="OsijeÄko-Baranjska/Ä‘akovo"  description="Senzor na nadvožnjaku Dragotin ne reagira dobro, dogaða se da pada kiša i nadvožnjak je mokar, a senzor ga registrira da je suh."  user="Osijek"  contact="NC Äakovo" 	
+/>	<marker id="614"  station_id="9502"  type="0"  reply_to="0"  name="petrusic"  county="osijek"  description="nevalja"  user="Osijek"  contact="nc-osijek" 	
+/>	<marker id="618"  station_id="9503"  type="2"  reply_to="0"  name="Igor Sabolovic"  county="Bjelovar"  description="Stanica 9501 Rakitnica ne radi kao ni stanica 9503 Jugovo  Polje iz nepoznatih razloga. Zbog vremenskih prilika vrlo je važno da iste što prije osposobite."  user="Bjelovar"  contact="igor.sabolovic@hrvatske-ceste.hr" 	
+/>	<marker id="620"  station_id="9514"  type="3"  reply_to="0"  name="MartiniÄ‡"  county="Nc Osijek"  description="Mjerna stanica nepokazuje dobro temperaturu  zraka i temperaturu kolnika"  user="Osijek"  contact="" 	
+/>	<marker id="621"  station_id="9514"  type="3"  reply_to="0"  name="MartiniÄ‡"  county="Nc Osijek"  description="Zašto stoji na ekranu  zaleðen kolnik  a nije "  user="Osijek"  contact="" 	
+/>	<marker id="626"  station_id="9502"  type="0"  reply_to="0"  name="Marko BagariÄ‡"  county="Osijek"  description="Molim obrazloženje iskljuèenosti stanice 9502 most Osijek?"  user="Osijek"  contact="" 	
+/>	<marker id="628"  station_id="9507"  type="1"  reply_to="0"  name="Marko BagariÄ‡"  county="osijek"  description="Na dnu stranice nema pregleda svih meteo postaja. WHy?"  user="Osijek"  contact="" 	
+/>	<marker id="634"  station_id="9502"  type="0"  reply_to="0"  name="Marko  BagariÄ‡"  county="osijek"  description="Zanima me zašto su stanice 9501  Rakitnica, 9502 Most Osijek i 9517 Vuka izvan pogona od 12,40, 12,50 odnosno 13,30 ?"  user="Osijek"  contact="" 	
+/>	<marker id="641"  station_id="9503"  type="4"  reply_to="0"  name="Igor"  county="Bjelovar"  description="Poštovani,
+svakodnevnim praèenjem vaših podataka s meteo stanica Rakitnica i Jugovo Polje zakljuèujemo da iste rade vrlo nesigurno u smislu ostavrivanja kvalitetne veze kao i slanja nam bitnih podataka o temperaturi i stanju padalina, a što je pretpostavljam vezano za rad indikatora.
+Naime, u poslijednjem, nama vrlo bitno periodu niskih temperatura i stalnih padalina na granici ledene kiše i snijega, meteorološke stanice redovito su ispadale iz nadzora iz nama nepoznatih razloga. Podaci o padalinama redovito su netoèni i nepouzdani, a u poslijednje vrijeme stanica Jugovo Polje javlja vrlo èudne podatke o temperaturi zraka koji su gotovo nemoguæi (pad ili rast temp za 3-4 stupnja u 10 min).
+SVE OVO NAVODI NAS NA ZAKLJUÈAK DA SU NAM PODACI  SA STANICA PRILIÈNO NEPOUZDANI I U KRITIÈNIM TRENUCIMA NEDOSTUPNI. STOGA VAS MOLIMO DA HITNO PODUZMETE SVE MOGUÆE MJERE KAKO BI SE PREDMETNA SITUACIJA PROMIJENILA I KAKO TRENUTNO STANJE NE BI BACILO SJENU NA KVALITETU RADA VAŠIH UREÐAJA.
+
+S poštovanjem,
+Šef Ispostave Bjelovar Hrvatskih cesta
+Igor Saboloviæ, dipl.ing.grað. "  user="Bjelovar"  contact="" 	
+/>	<marker id="643"  station_id="9501"  type="0"  reply_to="0"  name="Igor"  county="Bjelovar"  description="Poštovani, pošto u izborniku za vrstu dojave nisam pronašao odabir tipa POHVALE, slobodan sam Vas pohvaliti zbog kvalitetne i promptne reakcije na svaku našu primjedbu. Zaista je hvale vrijedan Vaš odgovor bez obzira da li smo s njim zadovoljni ili nismo i bez obzira možemo li ili ne prihvatiti razlog u problematiènim vezama odabranih GSM distributora. Monažu novih, suvremenih indikatora samo možemo pozdraviti i nadati se da æe se isto dogoditi u što skorije vrijeme.
+S poštovanjem,
+Igor Saboloviæ, dipl.ing.grað."  user="Bjelovar"  contact="" 	
+/>	<marker id="652"  station_id="9502"  type="0"  reply_to="0"  name="Marko BagariÄ‡"  county="Osijek"  description="OD 21,40 pa nadalje nema podataka u mernoj tablici , a sada je veæ 21,43. Zašto?"  user="Osijek"  contact="" 	
+/>	<marker id="654"  station_id="9508"  type="0"  reply_to="0"  name="MartiniÄ‡"  county="Osijek  Vuka"  description="Mjerni istrument neradi"  user="Osijek"  contact="" 	
+/>	<marker id="655"  station_id="9508"  type="1"  reply_to="0"  name="MartiniÄ‡"  county="Ä† Martinci"  description="Mjerni instrument nepokazuje dobro"  user="Osijek"  contact="" 	
+/>	<marker id="660"  station_id="9502"  type="0"  reply_to="0"  name="draÃ…Å¸en  p"  county=""  description=""  user="Osijek"  contact="" 	
+/>	<marker id="661"  station_id="9502"  type="0"  reply_to="0"  name="draÃ…Å¸en  p"  county=""  description=""  user="Osijek"  contact="" 	
+/>	<marker id="662"  station_id="9502"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="most Osijek"  description="most Osijek pokazuje stanje zaleðen, a tretitran je solju u 4.30 sati"  user="Osijek"  contact="" 	
+/>	<marker id="664"  station_id="9517"  type="0"  reply_to="0"  name="DraÃ…Å¸en  PetruÃ…Â¡iÄ‡"  county="Vuka"  description="Mjerna stanica pokazuje mokar kolnik,a on je suh"  user="Osijek"  contact="" 	
+/>	<marker id="665"  station_id="9502"  type="0"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="most Osijek"  description="Iz kojeg razloga od 03:20 mjerna stanica pokazuje da je kolnik zaleðen,a on je mjestimice vjažan"  user="Osijek"  contact="" 	
+/>	<marker id="666"  station_id="9502"  type="0"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Most Osijek"  description="Mjerna stanica i dalje pokazuje da je kolnik zaleðen,a nije,iz kojeg razloga?"  user="Osijek"  contact="" 	
+/>	<marker id="667"  station_id="9512"  type="0"  reply_to="0"  name="mario jackaniÄ‡"  county="osijeÄko baranjska/Ä‘akovo"  description="mjerna stanica, dragotin pokazuje mokar kolnik a isti je suh "  user="Osijek"  contact="n.c Ä‘akovo" 	
+/>	<marker id="672"  station_id="9501"  type="0"  reply_to="0"  name=""  county=""  description="Sa regije Bjelovar maknuta je stanica Lonèarica koja pripada Bjelovaru i više se sa iste ne vide podaci???"  user="Bjelovar"  contact="" 	
+/>	<marker id="674"  station_id="9516"  type="4"  reply_to="0"  name="Vedran TaslidÃ…Å¸iÄ‡"  county=""  description="Antone,
+
+Lonèarica je bila i treba ostati pod Bjelovar!
+
+"  user="Bjelovar"  contact="" 	
+/>	<marker id="675"  station_id="9509"  type="3"  reply_to="0"  name="MartiniÄ‡"  county="Ã…Å“upaniska cesta Erdut"  description="Kolnik je suh  a stanica daje signal zaleðenosti zašto"  user="Osijek"  contact="" 	
+/>	<marker id="676"  station_id="9502"  type="3"  reply_to="0"  name="MartiniÄ‡"  county="D 7 most"  description="Ista stvar i sa mostom kolnik suh a daje informaciju zaleðenosti"  user="Osijek"  contact="" 	
+/>	<marker id="680"  station_id="9528"  type="0"  reply_to="0"  name="Vedran TaslidÃ…Å¸iÄ‡"  county="Sisak"  description="Antone, molim Vas pogledajte stanicu most Crnac u zadnja 24 sata. U iduæih tjedan dana trebali bi kalibrirati stanicu, ako budu povoljni vremenski uvjeti.
+
+Pozdrav iz Siska!"  user="Sisak"  contact="" 	
+/>	<marker id="681"  station_id="9505"  type="4"  reply_to="0"  name="Drazen Orlic"  county="Sisak"  description="Meteo stanica detektira oborine u smislu 'inja' dok iste i slicne nisu prisutne "  user="Sisak"  contact="" 	
+/>	<marker id="682"  station_id="9528"  type="4"  reply_to="0"  name="Drazen Orlic"  county="Sisak"  description="Meteo stanica detektira vrstu oborina u smislu inja dok nikakave nisu prisutne"  user="Sisak"  contact="" 	
+/>	<marker id="685"  station_id="9501"  type="0"  reply_to="0"  name="Vedran TaslidÃ…Å¸iÄ‡"  county=""  description="Oaviještavamo Vas da su na stanicama Rakitnica i Jugovo Polje ugraðeni novi senzori kolièine, vrste oborina i vidljivosti.
+
+Lijep pozdrav!"  user="Bjelovar"  contact="" 	
+/>	<marker id="688"  station_id="9508"  type="0"  reply_to="0"  name="DraÃ…Å¸en  PetruÃ…Â¡iÄ‡"  county="ÄŒokadinci"  description="Mjerna stanica pokazuje mokar kolnik ,a on je suh "  user="Osijek"  contact="" 	
+/>	<marker id="689"  station_id="9513"  type="0"  reply_to="0"  name="Vedran TaslidÃ…Å¸iÄ‡"  county="HC Zagreb"  description="Pozdrav iz Metalèeve!"  user="HC"  contact="" 	
+/>	<marker id="697"  station_id="9528"  type="0"  reply_to="0"  name="Ratko"  county="Sisak"  description="Meteo stanica ne pokazuje nikakve podatke od 7.11. "  user="Sisak"  contact="" 	
+/>	<marker id="698"  station_id="9528"  type="4"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani gosp. Ratko,
+
+Hvala Vam na vašoj dojavi. Stanica æe biti u funkciji u roku od 48h. Isprièavamo se zbog problema koji su uzrokovani nastalom situacijom. Hvala na strpljenju. "  user="Sisak"  contact="" 	
+/>	<marker id="708"  station_id="9502"  type="2"  reply_to="0"  name="Nikola Ercegovac"  county="Osijek"  description="Most Osijek dana 29.11.2009. u 01.30. min nije bio suh veæ mokar .Naš vozaè Grgiæ preventivno 
+posipavao mokar kolnik sa 8g/m2.
+
+Srdaèan pozdrav
+
+Osijek, 29.11.2009. 11.28min"  user="Osijek"  contact="" 	
+/>	<marker id="709"  station_id="9502"  type="2"  reply_to="0"  name="Nikola Ercegovac"  county="Osijek"  description="Most Osijek dana 29.11.2009. u 01.30. min nije bio suh veæ mokar .Naš vozaè Grgiæ preventivno 
+posipavao mokar kolnik sa 8g/m2.
+
+Srdaèan pozdrav
+
+Osijek, 29.11.2009. 11.28min"  user="Osijek"  contact="" 	
+/>	<marker id="717"  station_id="9529"  type="2"  reply_to="0"  name="herceg"  county="VaraÃ…Å¸din/Paka"  description="Nema svježih podataka"  user="varazdin"  contact="d.herceg@pzc-varazdin.hr" 	
+/>	<marker id="718"  station_id="9529"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÃ…Å¸din"  description="Meteo stanica Paka na D3 ne radi"  user="varazdin"  contact="+385 98 248 487" 	
+/>	<marker id="719"  station_id="9529"  type="2"  reply_to="0"  name="herceh"  county="varaÃ…Å¸dinska/Paka"  description="Za postaju Paka ne postoje svježi podaci"  user="varazdin"  contact="d.herceg@pzc.varazdin.hr" 	
+/>	<marker id="720"  station_id="9502"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="N.C.Osijek"  description="U 5 i30 kod mj. stanice Most Osijek pokazuje se da je kolnik zaleðen.Osobno sam se uvjerio da nije istina jer je most tretiran sa solju u 4 i 10 te je kolnik na mostu mokar"  user="Osijek"  contact="" 	
+/>	<marker id="721"  station_id="9502"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="N.C.Osijek"  description="U 5 i30 kod mj. stanice Most Osijek pokazuje se da je kolnik zaleðen.Osobno sam se uvjerio da nije istina jer je most tretiran sa solju u 4 i 10 te je kolnik na mostu mokar"  user="Osijek"  contact="" 	
+/>	<marker id="722"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ† "  county="OSIJEÄŒKO - BARANJSKA / ÄAKOVO"  description="MJERNA STANICA NADVOŽNJAK DRAGOTIN, OÈITAVA MOKAR KOLNIK, A ISTI JE ZAPRAVO SUH, NIJE NITI VLAŽAN, ŠTO JE UTVRÐENO OBILASKOM CESTE. NA MJESTU GDJE JE INSTALIRAN 'SENZOR' JE VLAŽNO A RADI SE O 15cm2. POSTOJI LI MOGUÈNOST DA JE OŠTEÈEN 'BITUMEN' KOJIM JE ZALIVEN 'SENZOR' I ZBOG TOGA DA JE LAŽNA OÈITANJA   "  user="Osijek"  contact="" 	
+/>	<marker id="730"  station_id="9534"  type="2"  reply_to="0"  name="ALEN BAJZEK"  county="KRAPINSKO ZAGORSKA"  description="STANICA POKAZUJE DA JE KLIZAV KOLNIK  A KOLNIK JE U POTPUNOSTI SUH (osobno se uvjerio u to)"  user="hc"  contact="" 	
+/>	<marker id="731"  station_id="9520"  type="0"  reply_to="0"  name="Marijan Kelemen"  county="VaraÃ…Å¸dinska/LovrÄan"  description="Mislim da je došlo do prestanka rada stanice Lovreèan, molim provjeru. (vidi napon)"  user="varazdin"  contact="Marijan.Kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="733"  station_id="9502"  type="4"  reply_to="0"  name="Nikola Ercegovac"  county=""  description="Pohvaljujem sve dežurne organizatore zimske službe u Cesting-u koji prate meteorološke stanice na portalu i uoèavaju greške u mjernim tablicama.Gosponine Robert molim Vas da prekontrolirate sve senzore koji su postavljeni u kolnik,te  da nije sluèajno došlo do greške prilikom postavljanja ili možda ima oko senzora par kapljica vode i na temelju tih (kapljica) šalje nam pogešne podatke o stanju kolnika.
+
+Srdaèan pozdrav"  user="Osijek"  contact="" 	
+/>	<marker id="734"  station_id="9529"  type="2"  reply_to="0"  name="herceg"  county="varazdin/Paka"  description="Za postaju Paka ponovno ne postoje svježi podaci"  user="varazdin"  contact="d.herceg@pzc-varazdin.hr" 	
+/>	<marker id="735"  station_id="9515"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani gosp. Herceg,
+
+Postaja Paka biti æe popravljena u najkraæem moguæem roku. Isprièavamo se zbog nastalih problema.
+
+ "  user="varazdin"  contact="" 	
+/>	<marker id="736"  station_id="9534"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani gosp. Bajzek,
+
+Hvala Vam na vašoj dojavi, smanjiti æemo osjetljivost kolnièke sonde kako bi podatke prilagodili vašim oèitanjima. "  user="hc"  contact="" 	
+/>	<marker id="737"  station_id="9534"  type="3"  reply_to="0"  name="ALEN BAJZEK"  county="KRAPINSKO ZAGORSKA"  description="OSOBNO BIO NA STANICI PRIJE POLA SATA 
+NIJE LALEÐENO ,MOJA PRETPOSTAVKA JE DA  NA PODATKE UTJEÈE JAK SJEVERAC KOJI GORE PUŠE"  user="hc"  contact="0913203227" 	
+/>	<marker id="739"  station_id="9507"  type="3"  reply_to="0"  name="ROMAN"  county="N.C.BELI MANASTIR"  description="Poznati pojam Wind Chill proizlazi iz kombinacije brzine vjetra i temperature. Viša brzina
+prouzrokuje osjeæaj veæe hladnoæe. Toplotni index je kombinacija relativne vlage i temperature
+(topal, vrlo vlažan zrak osjeæamo toplijim nego suhi topli zrak). Rosište je temperatura (granièna
+temperatura), pri kojoj se vlaga iz zraka taloži (sedimentira) na tijelima koja su hladnija od temperature zraka.Sljedom toga samo me zanima da li je moguæe da naše meteorološke stanice mogu bilježiti vanjsku temperaturu kad je jak vjetar da je niža nego što je , i da li je to povezano automatski sa stanjem tog trenutka na kolniku pa sljedom toga ponekad dobivamo podatke koji nisu u sukladnosti stvarnom stanju koji oèitava sonda i stanju tog trenutka na kolniku?Hvala na odgovoru unaprijed."  user="Osijek"  contact="" 	
+/>	<marker id="740"  station_id="9507"  type="3"  reply_to="0"  name="ROMAN"  county="N.C.BELI MANASTIR"  description="Poznati pojam Wind Chill proizlazi iz kombinacije brzine vjetra i temperature. Viša brzina
+prouzrokuje osjeæaj veæe hladnoæe. Toplotni index je kombinacija relativne vlage i temperature
+(topal, vrlo vlažan zrak osjeæamo toplijim nego suhi topli zrak). Rosište je temperatura (granièna
+temperatura), pri kojoj se vlaga iz zraka taloži (sedimentira) na tijelima koja su hladnija od temperature zraka.Sljedom toga samo me zanima da li je moguæe da naše meteorološke stanice mogu bilježiti vanjsku temperaturu kad je jak vjetar da je niža nego što je , i da li je to povezano automatski sa stanjem tog trenutka na kolniku pa sljedom toga ponekad dobivamo podatke koji nisu u sukladnosti stvarnom stanju koji oèitava sonda i stanju tog trenutka na kolniku?Hvala na odgovoru unaprijed."  user="Osijek"  contact="" 	
+/>	<marker id="741"  station_id="9514"  type="0"  reply_to="0"  name=""  county=""  description="Poštovani gosp. Roman,
+
+Senzori mjere toènu temperaturu zraka u datom trenutku, vjetar sam po sebi nema utjecaja na meteorološku postaju. Stanje kolnika se odreðuje na temelju niza podataka koje prikuplja niz senzora na postaji. Svaki od prikupljenih parametara, meðu kojima se nalazi i temperatura zraka ima utjecaj pri odreðivanju trenutnog stanja na kolniku. 
+
+S poštovanjem,
+Robert Ivanèiæ 
+
+"  user="Osijek"  contact="" 	
+/>	<marker id="745"  station_id="9507"  type="3"  reply_to="0"  name="Marko BagariÄ‡"  county=""  description="Gledajuæi današnje mjerne tablice uoèio sam da njih više ima u razlièito vrijeme stanje kolnika ZALEÐEN, što me u potpunosti zabrinjava i želim znati o èemu je rijeè.Uzimam za primjer evo sadašnje stanje kolnika u ovaj kasni sat.Na stanicama Draž,Erdut,Ferièanci,Marijanci sustav bilježi stanje kolnika ZALEÐEN.Da li je to stvarno tako i šta treba poduzeti u ovako ekstremnim temperaturnim uvjetima kada je minus dvocifrena brojka?Takoðer mi nije jasno da uz kemijski faktor od 25 g/m2 sutav detektira stanje kolnika ZALEÐEN.Predlažem da obje strane, dakle Elektromodul s jedne strane i Cesting s druge strane INTERAKTIVNO rade,reagiraju i ukonaènosti da dobijemo podatke koji su 99,9posto toèni.jer ako to nije tako postavlja se pitanje svrsihodniosti istoga? Molim da se poduzmu hitne mjere u cilju rješavanja ovih problema."  user="Osijek"  contact="" 	
+/>	<marker id="746"  station_id="9507"  type="3"  reply_to="0"  name="Marko BagariÄ‡"  county=""  description="Gledajuæi današnje mjerne tablice uoèio sam da njih više ima u razlièito vrijeme stanje kolnika ZALEÐEN, što me u potpunosti zabrinjava i želim znati o èemu je rijeè.Uzimam za primjer evo sadašnje stanje kolnika u ovaj kasni sat.Na stanicama Draž,Erdut,Ferièanci,Marijanci sustav bilježi stanje kolnika ZALEÐEN.Da li je to stvarno tako i šta treba poduzeti u ovako ekstremnim temperaturnim uvjetima kada je minus dvocifrena brojka?Takoðer mi nije jasno da uz kemijski faktor od 25 g/m2 sutav detektira stanje kolnika ZALEÐEN.Predlažem da obje strane, dakle Elektromodul s jedne strane i Cesting s druge strane INTERAKTIVNO rade,reagiraju i ukonaènosti da dobijemo podatke koji su 99,9posto toèni.jer ako to nije tako postavlja se pitanje svrsihodniosti istoga? Molim da se poduzmu hitne mjere u cilju rješavanja ovih problema."  user="Osijek"  contact="" 	
+/>	<marker id="755"  station_id="9529"  type="0"  reply_to="0"  name="herceg duÃ…Â¡ko"  county="VaraÃ…Å¸dinska / Paka"  description="Meteo postaja Paka prikazuje suh kolnik, a kiša pada nekolilo sati. Osim toga ne postoje svježi podaci iz postaje."  user="varazdin"  contact="" 	
+/>	<marker id="756"  station_id="9502"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osj-bar"  description="Od 15 sati preuzeo sam smijenu dežurstva ,te na svim mjernim stanicama pokazuje se mokar kolnik  a nije istina jer kiša pada satima i kolnik je mokar"  user="Osijek"  contact="" 	
+/>	<marker id="757"  station_id="9502"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osj-bar"  description="Od 15 sati preuzeo sam smijenu dežurstva ,te na svim mjernim stanicama pokazuje se mokar kolnik  a nije istina jer kiša pada satima i kolnik je mokar"  user="Osijek"  contact="" 	
+/>	<marker id="758"  station_id="9502"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡O"  county="Osj-bar"  description="Prilikom poslijednje primjedbe htio sam reæi da je kolnik mokar ,a ne suh  kako se vidi na mj.stanicama"  user="Osijek"  contact="" 	
+/>	<marker id="759"  station_id="9502"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡O"  county="Osj-bar"  description="Prilikom poslijednje primjedbe htio sam reæi da je kolnik mokar ,a ne suh  kako se vidi na mj.stanicama"  user="Osijek"  contact="" 	
+/>	<marker id="760"  station_id="9502"  type="0"  reply_to="0"  name="Vedran TaslidÃ…Å¸iÄ‡"  county=""  description="Poštovani gospodine Petrušiæ. Hvala na primjedbi! Grešku æemo ukloniti u najkraæem moguæem roku."  user="Osijek"  contact="" 	
+/>	<marker id="761"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ†"  county="OSIJEÄŒKO-BARANJSKA / ÄAKOVO"  description="UVIDOM U TABLICU MJERNE STANICE, NADVOŽNJAK DRAGOTIN, UOÈILI SMO GREŠKU U OÈITANJU STANJA KOLNIKA, MJERNA STANICA OÈITAVA SUH KOLNIK A ISTI JE MOKAR, ŠTO JE UTVRÐENO OBILASKOM MJERNOG MJESTA, OD KIŠE KOJA JE PADALA OD 02:30 -  06:30 
+HVALA!"  user="Osijek"  contact="" 	
+/>	<marker id="765"  station_id="9520"  type="0"  reply_to="0"  name="Renato Ã…Â antek"  county="Varazdin"  description="Meteo postaja Lovreèan nije evidentirala posipavanje kolnika 27.12.2009."  user="varazdin"  contact="" 	
+/>	<marker id="767"  station_id="9510"  type="0"  reply_to="0"  name=""  county=""  description="Poštovani gosp. Jackaniæ,
+
+Hvala na Vašoj primjedbi, problem æe biti uklonjen u najkraæem moguæem roku.
+
+S poštovanjem,
+Robert Ivanèiæ"  user="Osijek"  contact="" 	
+/>	<marker id="769"  station_id="9515"  type="0"  reply_to="0"  name=""  county=""  description="Poštovani gosp. Šantek,
+
+hvala Vam na dojavi, problem æemo ukloniti u najkraæem moguæem roku.
+
+S poštovanjem,
+Robert Ivanèiæ"  user="varazdin"  contact="" 	
+/>	<marker id="780"  station_id="9520"  type="2"  reply_to="0"  name="FuÄ‡kar Ivan"  county="varaÃ…Å¸dinska"  description="nakon soljenja sa 15 grama u 17sati i 35 min mjerna stanica pokazuje 7,00 grama u19,00sati "  user="varazdin"  contact="091 320 32 42" 	
+/>	<marker id="781"  station_id="9515"  type="3"  reply_to="0"  name="HABEK BRANKO"  county="VARAÃ…Å“DINSKA  TRAKOÃ…Â Ä†AN"  description=""  user="varazdin"  contact="2010-01-07" 	
+/>	<marker id="782"  station_id="9515"  type="0"  reply_to="0"  name=""  county=""  description="NAKON POSIPAVANJA OD15GRAMA MJERNA STANICA POKAZUJE 8 GRAMA"  user="varazdin"  contact="" 	
+/>	<marker id="783"  station_id="9515"  type="0"  reply_to="0"  name=""  county=""  description=""  user="varazdin"  contact="" 	
+/>	<marker id="784"  station_id="9515"  type="2"  reply_to="0"  name="BRANKO HABEK "  county="VARAÃ…Å“DINSKA  TRAKOÃ…Â Ä†AN"  description=""  user="varazdin"  contact="" 	
+/>	<marker id="785"  station_id="9515"  type="0"  reply_to="0"  name="BRA"  county=""  description=""  user="varazdin"  contact="" 	
+/>	<marker id="786"  station_id="9515"  type="2"  reply_to="0"  name="BRANKO HABEK"  county="VARAÃ…Å“DINSKA  TRAKOÃ…Â Ä†AN"  description="NAKON POSIPAVANJA OD 15GRAMA MJERNASTANICA POKAZUJE 8GRAMA"  user="varazdin"  contact="2010-01-07" 	
+/>	<marker id="787"  station_id="9515"  type="0"  reply_to="0"  name=""  county=""  description=""  user="varazdin"  contact="" 	
+/>	<marker id="788"  station_id="9520"  type="3"  reply_to="0"  name="FuÄkar  ivan"  county="VaraÃ…Å¸dinska most LovreÄan"  description="nakon jutarnjeg posipavanja meteostanica ne pokazuje stanje slanosti ceste"  user="varazdin"  contact="091 3203242" 	
+/>	<marker id="789"  station_id="9529"  type="2"  reply_to="0"  name="DUÃ…Â KO"  county="VARAZDINSKA"  description="CESTA POSIPANA SA 20 GRAMA A STANICA POKAZUJE SASVIM DRUGE PODATKE"  user="varazdin"  contact="" 	
+/>	<marker id="791"  station_id="9534"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani,
+
+Hvala Vam na vašim dojavama, problem æe biti riješen u najkraæem moguæem roku. Naše isprike zbog eventualnih poteškoæa nastalih ovom situacijom.
+
+S poštovanjem,
+Robert Ivanèiæ "  user="varazdin"  contact="" 	
+/>	<marker id="793"  station_id="9529"  type="2"  reply_to="0"  name="herceg"  county="varaÃ…Å¸dinska/Paka"  description="Mjerna stanica Paka,još uvijek  ne pokazuje toèan podatak o kolièini soli, oborinama i kolièini oborina"  user="varazdin"  contact="" 	
+/>	<marker id="794"  station_id="9520"  type="2"  reply_to="0"  name="FuÄkar"  county="most lovreÄan"  description="pokazuje da je most suh a pada kiša"  user="varazdin"  contact="" 	
+/>	<marker id="795"  station_id="9534"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani, 
+
+Hvala Vam na vašim informacijama, postaje Paka i Most Lovreæan bi sada trebale biti u redu. Isprièavamo se zbog poteškoæa uzrokovanih ovom situacijom. 
+
+S poštovanjem,
+Robert Ivanèiæ"  user="varazdin"  contact="" 	
+/>	<marker id="796"  station_id="9515"  type="0"  reply_to="0"  name="Kelemen Marijan"  county=""  description="Stanica pokazuje da pada snijeg, a ne pada ništa?"  user="varazdin"  contact="" 	
+/>	<marker id="798"  station_id="9508"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osiek"  description="Od 21.50 na mj.stanici Èokadinci pokazuje da je kolnik sklizak a on je suh."  user="Osijek"  contact="" 	
+/>	<marker id="799"  station_id="9508"  type="3"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osiek"  description="Od 21.50 na mj.stanici Èokadinci pokazuje da je kolnik sklizak a on je suh."  user="Osijek"  contact="" 	
+/>	<marker id="800"  station_id="9517"  type="0"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osiek"  description="Mjerne stanice Vuka i Èokadinci u 6.00 pokazuju da je kolnik sklizak,a oni su suhi,zašto?"  user="Osijek"  contact="" 	
+/>	<marker id="801"  station_id="9517"  type="0"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osiek"  description="Mjerne stanice Vuka i Èokadinci u 6.00 pokazuju da je kolnik sklizak,a oni su suhi,zašto?"  user="Osijek"  contact="" 	
+/>	<marker id="802"  station_id="9510"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani gosp. Petrušiæ,
+
+
+Hvala Vam na vašoj dojavi, problem koji ste naveli biti æe riješen u najkraæem moguæem roku. Isprièavamo se zbog problema nastalih ovom situacijom.
+
+
+S poštovanjem,
+Robert Ivanèiæ"  user="Osijek"  contact="" 	
+/>	<marker id="803"  station_id="9518"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani gosp. Petrušiæ,
+
+Ovakvo stanje kolnika nastaje zbog toga što kolnièka sonda oèitava vlagu koja nije možda okom vidljiva te zbog uvjeta koji su u tom trenutku prisutni pokazuje da je moguæe da je kolnik sklizak. Smanjiti æemo osjetljivost kolnièke sonde tako da æe stanje kolnika ubuduæe odgovarati vašim zapažanjima.
+
+S poštovanjem,
+Robert Ivanèiæ"  user="Osijek"  contact="" 	
+/>	<marker id="804"  station_id="9516"  type="2"  reply_to="0"  name="Zlatko GlavaÄeviÄ‡"  county="Brodsko-posavska / Slavonski Brod"  description="Dana 10.01.2009 mjerna stanica Buèje javlja susnježicu i snijeg,  kolnik u 17,15 sati mjestimièno vlažan, magla, oborina nije bilo "  user="Brod"  contact="035/223-005, 098/487-216" 	
+/>	<marker id="805"  station_id="9532"  type="2"  reply_to="0"  name="Zlatko GlavaÄeviÄ‡"  county="Brodsko-posavska / Slavonski Brod"  description="Dana 11.01.2009 mjerna stanica batrina javlja kišu i susnježicu a oborina nije bilo"  user="Brod"  contact="035/223-005, 098/487-216" 	
+/>	<marker id="808"  station_id="9528"  type="0"  reply_to="1"  name="Test"  county=""  description="Ovo je test"  user="Sisak"  contact="" 	
+/>	<marker id="809"  station_id="9520"  type="2"  reply_to="0"  name="GREGUR MLADEN"  county="VARAÃ…Å“DI"  description="METEO STANICA NIJE EVIDENTIRALA SOLJENJE U 9 SATI"  user="varazdin"  contact="091 3203221" 	
+/>	<marker id="812"  station_id="9528"  type="0"  reply_to="1"  name="Test"  county=""  description="Ovo je testna poruka"  user="Sisak"  contact="" 	
+/>	<marker id="814"  station_id="9528"  type="0"  reply_to="1"  name="Test"  county=""  description="Ovo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna porukaOvo je testna poruka"  user="Sisak"  contact="" 	
+/>	<marker id="815"  station_id="9529"  type="0"  reply_to="0"  name="herceg"  county="varazdin / paka"  description="Stanica u posljednjih 7 h pokazuje stalni rast slanosti iako nije bilo posipavanja."  user="VARAZDIN"  contact="" 	
+/>	<marker id="816"  station_id="9529"  type="2"  reply_to="0"  name="herceg"  county="varazdin / paka"  description="stanica Paka kasni cca 45min u izvještaju u odnosu na ostale stanice"  user="varazdin"  contact="" 	
+/>	<marker id="817"  station_id="9508"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osijek"  description="Mj. stanice Èokadinci i Vuka pokazuju da je kolnik suh,što nije istina"  user="Osijek"  contact="" 	
+/>	<marker id="818"  station_id="9508"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osijek"  description="Mj. stanice Èokadinci i Vuka pokazuju da je kolnik suh,što nije istina"  user="Osijek"  contact="" 	
+/>	<marker id="822"  station_id="9528"  type="0"  reply_to="1"  name="Test"  county=""  description="Ovo je testna poruka!"  user="Sisak"  contact="" 	
+/>	<marker id="823"  station_id="9528"  type="0"  reply_to="1"  name="Test"  county=""  description="Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!Ovo je testna poruka!"  user="Sisak"  contact="" 	
+/>	<marker id="826"  station_id="9529"  type="2"  reply_to="0"  name="herceg"  county="varaÃ…Å¸din/Paka"  description="Stanica nema svježe podatke"  user="varazdin"  contact="" 	
+/>	<marker id="830"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ†"  county="OSIJEÄŒKO BARANJSKA/ÄAKOVO"  description="MJERNO MJESTO NADVOŽNJAK DRAGOTIN, OD 20h NE POKAZUJE OÈITANJA U MJERNIM TABLICAMA, ZAŠTO? HVALA!"  user="Osijek"  contact="NC.ÄAKOVO" 	
+/>	<marker id="832"  station_id="9502"  type="0"  reply_to="0"  name="Robert IvanÄiÄ‡"  county=""  description="Poštovani,
+
+Ovim putem želio bih skrenuti pozornost na stupac u mjernoj tablici pod nazivom 'oborine (mm/h)'. Naime, ovaj stupac sadrži podatke koji predstavljaju intenzitet padalina. Ne predstavlja kolièinu snijega na cesti.  
+
+S poštovanjem,
+Robert Ivanèiæ"  user="Osijek"  contact="" 	
+/>	<marker id="833"  station_id="9509"  type="0"  reply_to="0"  name="Marko  BagariÄ‡"  county=""  description="Meterološka postaja Erdut duže vrijeme signalizira velike kolièine snijega  u jedinici vremena.Izražavam veliku sumnju u toènost podatka i molim da vidite o èemu se radi.Znam da se radi o intenzitetu padalina."  user="Osijek"  contact="" 	
+/>	<marker id="835"  station_id="9528"  type="0"  reply_to="0"  name="Test"  county=""  description="Ovo je test!"  user="Sisak"  contact="" 	
+/>	<marker id="836"  station_id="9508"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osijek"  description="Tokom noæi i jutra mj. stanica Èokadinci nije prikazivala stvarno stanje kolnika"  user="Osijek"  contact="" 	
+/>	<marker id="837"  station_id="9508"  type="2"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osijek"  description="Tokom noæi i jutra mj. stanica Èokadinci nije prikazivala stvarno stanje kolnika"  user="Osijek"  contact="" 	
+/>	<marker id="839"  station_id="9528"  type="0"  reply_to="0"  name="Test"  county=""  description="Ovo je test!"  user="Sisak"  contact="" 	
+/>	<marker id="842"  station_id="9520"  type="2"  reply_to="0"  name="Renato Ã…Â antek"  county=""  description="Meteo stanica Lovreèan od 13 sati evidentirala je padanje magle, mada je tokom cijelog dana padao snijeg."  user="varazdin"  contact="" 	
+/>	<marker id="844"  station_id="9507"  type="0"  reply_to="0"  name="Marko BagariÄ‡"  county=""  description="Met. stanica Draž, u 6,52 uz kemijski faktor kolnika od 21gr/m2 signalizira moguæu poledicu. O èemu je tu rijeè, i kako je to moguæe?"  user="Osijek"  contact="" 	
+/>	<marker id="848"  station_id="9515"  type="0"  reply_to="0"  name="Danijel MaÄek"  county="VARAÃ…Å“DINSKA  TRAKOÃ…Â Ä†AN"  description="Meteo stanica Trakošèan od 7 sati prestala je slati podatke."  user="varazdin"  contact="" 	
+/>	<marker id="850"  station_id="9520"  type="0"  reply_to="0"  name="Renato Ã…Â antek"  county=""  description="Na meteo stanici Lovreèan 18.02.2010. u 7 sati i 10 min. izvršeno je mjerenje temperature zraka i temperature tla uz pomoæ mobilnog termometra na dijelu kolinika gdje je smjestena meteo stanica.
+
+TEMPERATURA ZRAKA izmjerena mob. termometrom bila je izmedju 0 i -1 C st. - istovremeno meteo stanica prikazivala je temperaturu od -1,4 C st.
+
+TEMPERATURA TLA izmjerena mob. termometrom bila je +3 C st - dok je meteo stanica prikazivala temperaturu od 0 C st.
+
+Molio bi da provjerite rezultate koje daje meteo stanica te da ih korigirate u slucaju potrebe.
+
+
+
+
+"  user="varazdin"  contact="" 	
+/>	<marker id="852"  station_id="9520"  type="0"  reply_to="0"  name="Mladen Gregur"  county=""  description="Meteo stanica Lovreèan nije evidentirala posipavanje koje je izvršeno 19.02.2010. oko 2.30.sati. Ovo je prevelika greška."  user="varazdin"  contact="" 	
+/>	<marker id="854"  station_id="9502"  type="2"  reply_to="0"  name="Nikola Ercegovac"  county=""  description="Poštovani g. Robert smatram da na meteorološkoj stanici most Osijek ne pokazuje toène vrijednosti temperature zraka i kolnika.Vanjsku temeraturu u mom automobilu  na zapadnoj obilaznici(D 7) u 21.10 mi pokazuje 0 C u našoj tvrtci 0,3.
+
+Srdaèan pozdrav,
+
+Nikola Ercegovac"  user="osijek"  contact="" 	
+/>	<marker id="855"  station_id="9509"  type="0"  reply_to="0"  name="Marko  BagariÄ‡"  county=""  description="Pozdrav iz susjedne države BiHa.Zanima me da li u ovom trenutku zaista pada snijeg u Erdutu kako to pokazuje meteo postaja?"  user="Osijek"  contact="" 	
+/>	<marker id="856"  station_id="9518"  type="2"  reply_to="0"  name="Nikola Ercegovac"  county=""  description="Gospodine Robert meteorološka stanica Krndija pokazuje da je kolnik uu 22 h suh ,a cijeli dan pada kiša i propadivao je snijeg.
+
+Srdaèan pozdrav
+
+Nikola Ercegovac "  user="osijek"  contact="" 	
+/>	<marker id="857"  station_id="9518"  type="2"  reply_to="0"  name="Nikola Ercegovac"  county=""  description="Gospodine Robert meteorološka stanica Krndija pokazuje da je kolnik uu 22 h suh ,a cijeli dan pada kiša i propadivao je snijeg.
+
+Srdaèan pozdrav
+
+Nikola Ercegovac "  user="osijek"  contact="" 	
+/>	<marker id="858"  station_id="9512"  type="0"  reply_to="0"  name="Mario JackaniÄ‡"  county="OSJEÄŒKO-BARANJSKA/ÄAKOVO"  description="MJERNA STANICA DRAGOTIN, REGISTRIRA MOGUÆU POLEDICU, A KOLNIK JE SUH, STANJE KOLNIKA JE UTVRÐENO OBILASKOM MJERNE STANICE. "  user="Osijek"  contact="" 	
+/>	<marker id="863"  station_id="9502"  type="4"  reply_to="0"  name="Nikola Ercegovac"  county=""  description="Gospodine Robert provjerite meteorološku stanicu Osijek na dan 04.03.2010. Analizirajte kemijski faktor od primjer od 08.00 h pa do 19.00 h.Temperatura zraka i kolnika su u plusu te posipavanja nije bilo, a kemijski faktor raste???Srdaèan pozdrav"  user="osijek"  contact="" 	
+/>	<marker id="864"  station_id="9502"  type="0"  reply_to="0"  name="DraÃ…Å¸en PetruÃ…Â¡iÄ‡"  county="Osijek"  description="Mj. stanica Most Osijek pokazuje moguæu poledicu,a on je suh"  user="Osijek"  contact="" 	
+/>	<marker id="867"  station_id="9536"  type="1"  reply_to="0"  name="Tobias"  county="PodolÃƒÂ­nec"  description="bei der grafische darstelung 24St. ist Zeit Angezeigt 9:27 bis 11:27
+2 Stunden verschiebung
+nach meine meinung solte sein von 9:27 bis 9:27 und Datum"  user="meteo"  contact="" 	
+/>	<marker id="868"  station_id="9536"  type="0"  reply_to="0"  name="Tobias"  county="PodolÃƒÂ­nec"  description="Die FBS Temperatur springt um 0,7° in 2 minuten"  user="meteo"  contact="" 	
+/>	<marker id="869"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="StarÃƒÂ¡ ÅºubovÅˆa"  description="Sichtweite 100m"  user="meteo"  contact="Tobias" 	
+/>	<marker id="870"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="StarÃƒÂ¡ ÅºubovÅˆa"  description="200m Sichtweite"  user="meteo"  contact="Tobias" 	
+/>	<marker id="871"  station_id="9536"  type="0"  reply_to="0"  name="PodolÃƒÂ­nec"  county=""  description="falender nebel, sichtweite 255m"  user="meteo"  contact="Tobias" 	
+/>	<marker id="872"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="StarÃƒÂ¡ ÅºubovÅˆa"  description="250m Sichtweite"  user="meteo"  contact="Tobias" 	
+/>	<marker id="873"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="StarÃƒÂ¡ ÅºubovÅˆa"  description="500m Sichtweite"  user="meteo"  contact="Tobias" 	
+/>	<marker id="874"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="Stara ÅºubovÅˆa"  description="200m Sichtweite"  user="meteo"  contact="Tobias" 	
+/>	<marker id="875"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="Stara ÅºubovÅˆa"  description="250m Sichtweite"  user="meteo"  contact="Tobias" 	
+/>	<marker id="879"  station_id="9534"  type="1"  reply_to="0"  name="a"  county="b"  description="test"  user="HC"  contact="c" 	
+/>	<marker id="881"  station_id="9502"  type="4"  reply_to="0"  name="robert"  county="osijek"  description="test"  user="Osijek"  contact="" 	
+/>	<marker id="887"  station_id="9508"  type="4"  reply_to="0"  name="Robert"  county="Osijek"  description="Test"  user="Osijek"  contact="" 	
+/>	<marker id="888"  station_id="9502"  type="2"  reply_to="0"  name="Robert IvanÄiÄ‡"  county="Osijek"  description="test"  user="Osijek"  contact="" 	
+/>	<marker id="893"  station_id="9540"  type="1"  reply_to="0"  name="Anton"  county="Budim"  description="test5"  user="kozut080"  contact="remeli@freemail.hu" 	
+/>	<marker id="894"  station_id="9516"  type="4"  reply_to="0"  name="Robert"  county=""  description="test"  user="Brod"  contact="" 	
+/>	<marker id="895"  station_id="9516"  type="3"  reply_to="0"  name="Robert"  county="Ada"  description="qwdqaD"  user="Brod"  contact="ada" 	
+/>	<marker id="896"  station_id="9531"  type="1"  reply_to="0"  name="dqwidjhad"  county="asdad"  description="asdasda"  user="Brod"  contact="asda" 	
+/>	<marker id="897"  station_id="9531"  type="2"  reply_to="0"  name="asddasd"  county="asdasd"  description="adadasdsasd"  user="Brod"  contact="asda" 	
+/>	<marker id="916"  station_id="9502"  type="3"  reply_to="0"  name="robert"  county="osijek"  description="test"  user="Osijek"  contact="" 	
+/>	<marker id="917"  station_id="9509"  type="1"  reply_to="0"  name="Anton;ÃƒÂ¶Ã¤+ÃƒÅ’.Ã´Â§Ã¤ÃƒÂºÅˆÄÄ‡Å¾Ä‘Å¡.ÃƒÂ©ÃƒÂ¡Å±ÃƒÂºÅ‘"  county="BudimÅ¾Ä‡Ä‘Å¡Å±ÃƒÂ¡Å‘ÃƒÂº"  description="test izvješæe
+
+provjerena sol na svim stanicama
+
+PZ3286  9533 Jastrebarsko  smanjena sol obiènom rekalkulacijom, bez mijenjanja parametara
+
+PZ3289  	-3  9509 Erdut	konduktivni trn, lažna sol 4.11 u 16h  	korekcija za trn  	clc_bru.php modificiran  	2010-11-15 20:00:00  	odgovarajuæe ponašanje 
+
+u toku je fino podešavanje Ekspertnog Sustava radi bolje procjene slanosti i vlažnosti kolnika
+
+
+	"  user="HC"  contact="remelianton@gmail.com" 	
+/>	<marker id="918"  station_id="9533"  type="2"  reply_to="0"  name="DELAÄŒ"  county="ZAGREBAÄŒKA JASTREBARSKO"  description="KOLNIK SUH,A STANICA JAVLJA OD 22h VLAGU I 
+SKLISKO."  user="HC"  contact="" 	
+/>	<marker id="920"  station_id="9513"  type="0"  reply_to="0"  name="anton"  county=""  description="test éáûúõ, lèæžðš"  user="HC"  contact="" 	
+/>	<marker id="922"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ†"  county="OSJEÄŒKO-BARANJSKA / ÄAKOVO"  description="MOLIM OBAVITE PREGLED STANICE DRAGOTIN,
+STANICA OÈITAVA SUH KOLNIK, A ON JE ZAPRAVO MOKAR OD KIŠE KOJA PADA OD 16h,
+HVALA!
+ 
+"  user="osijek"  contact="" 	
+/>	<marker id="923"  station_id="9510"  type="3"  reply_to="0"  name="robert"  county="osijek"  description="test"  user="Osijek"  contact="" 	
+/>	<marker id="924"  station_id="9524"  type="3"  reply_to="0"  name="robert"  county="bjelovar"  description="test1"  user="Bjelovar"  contact="" 	
+/>	<marker id="926"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ†"  county="OSJEÄŒKO-BARANJSKA / ÄAKOVO"  description="stanica oèitava inje na temperaturi +4, molim provjerite stanicu Dragotin
+"  user="osijek"  contact="" 	
+/>	<marker id="927"  station_id="9512"  type="2"  reply_to="0"  name="MARIO JACKANIÄ†"  county="OSJEÄŒKO-BARANJSKA / ÄAKOVO"  description="stanica ne radi"  user="osijek"  contact="" 	
+/>	<marker id="928"  station_id="9520"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾dinska"  description="Stanice na podruèju Ispostave Vara¾din ne prikazuju realno stanje padalina tj. ne detektiraju padaline. Molim hitno provjeriti i izvjestiti o istom."  user="Varazdin"  contact="marijan.kelemen@hrvatske - ceste.hr" 	
+/>	<marker id="930"  station_id="9512"  type="2"  reply_to="0"  name="ivica totiÄ‡"  county="osijeÄko-baranjska/Ä‘akovo"  description="mjerni ureðaj prestao sa radom, razlog nepoznat"  user="osijek"  contact="" 	
+/>	<marker id="935"  station_id="9520"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾din"  description="Meteo stanica prikazuje kolnik suh, a veæ du¾e vrijeme pada susne¾ica i snijeg"  user="Varazdin"  contact="marijan.kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="936"  station_id="9515"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾din"  description="Nakon du¾eg perioda padanja ki¹e, susnje¾ice i snijega meteo stanica detektira suh kolnik."  user="Varazdin"  contact="marijan.kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="939"  station_id="9515"  type="4"  reply_to="0"  name="Robert"  county="Osijek"  description="testtttt"  user="varazdin"  contact="" 	
+/>	<marker id="941"  station_id="9502"  type="0"  reply_to="0"  name="D.PetruÅ¡iÄ‡"  county="Osijek"  description="U 1 i 30 most Osijek suh"  user="osijek"  contact="" 	
+/>	<marker id="944"  station_id="9507"  type="2"  reply_to="0"  name="ROMAN RAÅ IÄ†-Nadcestar"  county="N.C.BELI MANASTIR"  description="Molim Vas da provjerite napon stanice Dra¾ koji je danas 31.12.2010 u 7oo h 6.8v i nije dovoljan da stanica pravilno i na vrijeme oèitava podatke."  user="Osijek"  contact="091 223 21 52" 	
+/>	<marker id="945"  station_id="9533"  type="2"  reply_to="0"  name="NC JASTREBARSKO"  county=""  description="VANI SIJE SUNCE (OD 7h) CESTA STUHA ,A STANICA
+JO© UVIJEK POKAZUJE MOKAR KOLNIK ( U 10h)
+STANJE NISTE PROVJERILI NITI POPRAVILI JO© OD 7 MJ.2010. GODINE .ISTA JE BESKORISNA,DAPAÆE ÈAK I VEOMA ©TETNA ZA NAS."  user="HC"  contact="" 	
+/>	<marker id="946"  station_id="9515"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾din"  description="Ne radi meteo stanica Trako¹æan"  user="Varazdin"  contact="marijan.kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="949"  station_id="9502"  type="0"  reply_to="0"  name="D.PetruÅ¡iÄ‡"  county="Osijek"  description="Na mj. stanici Most Osijek u 6 i 45 prikazano da snje¾i ¹to je netoèno,vedro je"  user="osijek"  contact="" 	
+/>	<marker id="950"  station_id="9536"  type="2"  reply_to="0"  name="PodolÃƒÂ­nec"  county="Stara Ä½ubovÅˆa"  description="Sichtweite 2000m, Station meldet nebl"  user="meteo"  contact="Tobias Reznicky" 	
+/>	<marker id="951"  station_id="9524"  type="2"  reply_to="0"  name="Danijel LovrenÄiÄ‡"  county="KoprivniÄko-KriÅ¾evaÄka/KriÅ¾evci"  description="Po¹tovani, primjetili smo da stanica na webu ne pokazuje toène rezultate vremenskih prilika"  user="varazdin"  contact="091/32032443" 	
+/>	<marker id="952"  station_id="9520"  type="0"  reply_to="0"  name=""  county=""  description="Ne radi"  user="varazdin"  contact="" 	
+/>	<marker id="953"  station_id="9520"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾din"  description="Meteo stanica Lovreèan ne radi"  user="varazdin"  contact="marijan.kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="954"  station_id="9520"  type="2"  reply_to="0"  name="Marijan Kelemen"  county="VaraÅ¾din"  description="Most Lovreæan i dalje ne radi. G. Brkiæ iz HC-a mi je prije cca 20 dana javio da je sa Vama dogovorio da se ovaj popravak obavi jo¹ po starom ugovoru, ali mi se nitko nije javio do danas. Molim da poduzmete potrebne radnje da se stanica dovede u funkciju. "  user="varazdin"  contact="marijan.kelemen@hrvatske-ceste.hr" 	
+/>	<marker id="955"  station_id="9512"  type="2"  reply_to="0"  name="Mario JackaniÄ‡"  county="OSJEÄŒKO-BARANJSKA / NC. ÄKOVO"  description="MJERNA STANICA KONSTANTNO POKAZUJE LA®NE PODATKE"  user="Osijek"  contact="" 	
+/></markers>

@@ -1,0 +1,54 @@
+#! /bin/sh
+
+killall -9 screen
+killall -9 php5
+killall -9 gbd.sh
+killall -9 oka.sh
+#service mysql stop
+su --command="service mysql restart"
+service apache2 stop
+service apache2 start
+screen -dmS xps /usr/bin/php5 /drv0/html/@/xps_stp.php >& /dev/null
+
+####screen -dmS xpr /usr/bin/php5 /drv0/html/@/xps_str.php >& /dev/null
+screen -dmS xMd /usr/bin/php5 /drv0/html/@/xMd.php >& /dev/null
+##screen -dmS MKA /usr/bin/php5 /drv0/html/@/xps_MKA.php >& /dev/null
+
+screen -dmS GIS /usr/bin/php5 /drv0/html/@/xml2GIS.php >& /dev/null
+screen -dmS hrx /usr/bin/php5 /drv0/html/@/xml2hrk.php >& /dev/null
+screen -dmS hrt /usr/bin/php5 /drv0/html/@/xml2hrt.php >& /dev/null
+screen -dmS hrT /usr/bin/php5 /drv0/html/@/xml2hrT.php >& /dev/null
+##screen -dmS hrf /usr/bin/php5 /drv0/html/@/xml2forum.php >& /dev/null
+##screen -dmS gbg /usr/bin/gbg.sh /home/boreas /drv1/boreas 1
+screen -dmS gbd /usr/bin/gbd.sh /home/boreas /drv1/boreas 2
+##screen -dmS gbd@ /usr/bin/gbd@.sh /drv0/html/@@/bor /drv0/html/@@/boreas 2
+screen -dmS gbd@ /drv0/html/@@/gbd@.sh /drv0/html/@@/bore /drv0/html/@@/boreas 2
+
+##screen -dmS jpg /usr/bin/jpg.sh /drv1/boreas/error/txt /drv0/html/TescoJPG 30
+##screen -dmS oka /usr/bin/oka.sh 
+##screen -dmS hrka /usr/bin/hrka.sh
+
+
+
+###
+###
+#	screen -dmS dlsql /usr/bin/delayedmysql.sh
+# Ovo gore bi bilo resenje da treba mysql sa 30sec delayom da se pokrece (to sam sumnjao)...
+# ali u stvari je resenje slucajno donela implementacija "su --command=" pri pokretanju mysql-a
+# i bez toga ce krenuti mysql servis, samo ne dovoljno dobro!
+# voila:
+#su --command="service mysql restart"
+###
+###
+
+
+
+ps ax |grep apache2
+ps ax |grep mysql
+ps ax |grep php
+ps ax |grep gbd
+ps ax |grep oka
+
+screen -wipe
+###/etc/init.d/vsftpd restart
+exit 0

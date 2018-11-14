@@ -1,0 +1,92 @@
+VJT leírás:
+
+
+
+
+
+
+A táblavezérlõk a TESCO.dat fájl tartalmának megfelelõ utasítást hajtják végre.
+
+Jelenleg az alábbi tartalmakat értelmezik a vezérlõk:
+
+       1. sötét tábla
+                           1224084652  
+                                     0 
+                                      0
+
+
+       2. csúszós út
+                           1224084652
+                                     1
+                                      0
+
+
+       3. úton folyó munka
+                           1224084652
+                                     0
+                                      1
+
+       4. lámpa teszt
+                           1224084652
+                                     9
+                                      0
+
+
+
+
+A táblavezérlõk pillanatnyi állapotukat a (VJT1.dat), VJT2.dat, VJT3.dat, VJT4.dat
+állományokba írják. A VJT1.dat kivétel, ezt a táblát még a 386 vezérlõmodul kapcsolja.
+A fájl tartalmának értelmezése a következõ:
+
+
+Status:00 LT: 000100 ALARM: 0
+------------------------------
+
+Status: 00  sötét tábla
+        10  csúszós út
+        01  úton folyó munka
+        90  lámpa teszt
+
+
+
+
+
+LT:  lámpateszt "0" üzemképes izzó
+                "1" hibás izzó
+
+     balról jobbra: 1. piros háromszög fõizzó
+                    2. piros háromszög segédizzó
+                    3. csúszós út ( autó ) fõizzó
+                    4. csúszós út ( autó ) segédizzó
+                    5. dolgozó ember fõizzó
+                    6. dolgozó ember segédizzó
+
+Az LT: 000100 esetben hibás a csúszós út (autó) segédizzója. 
+Bármelyik pozícióban lévõ 1-es érték izzóhibát jelent.
+
+
+
+Az "ALARM: 0" esetében nincs azzonali beavatkozást igénylõ hiba,
+az "ALARM: 1" esetében a tábla sötét marad mert valamely piktogramm
+fõ és segédizzója is hibás (hiányos kép megjelenítésének elkerülése).
+
+
+
+
+Az FTP szerveren a VJT1.dat(ez kivétel), VJT2.dat, VJT3.dat, VJT4.dat állományok
+létrejöttének dátuma és idõpontja alapján ellenõrizhetõ a vezérlõkkel fennálló 
+kapcsolat. A tábláknak elméletileg legalább 15 percenként jelentkezniük kell a
+szerveren (megjegyzem, jelenleg a szerver órája 2 órás késésben van).
+
+
+
+
+Igény esetén természetesen bõvíthetõ a vezérlõk által értelmezett TESCO.dat
+fájltartalom, pl. felváltva villog a csúszós út és az úton folyó munka, ha a
+fájltartalom:
+                 1224084652
+                           1
+                            1   stb.              
+
+
+

@@ -1,0 +1,73 @@
+
+
+1 >> 414.08 >>> 64611-Hajdúszoboszló <<< 30/284-4582 ---> pluvio rs485 adatágcsere , 120 Ohm bekötése szükséges
+2 >> 414.12 >>> 64208-Balmazújváros <<< 30/911-6973 ---> pluvio rs485 adatágcsere, 120 Ohm bekötése szükséges
+2 >> 417.08 >>> 45209-Vasad <<< 30/495-6220 ---> x
+3 >> 417.08 >>> 63208-Hajdúnánás <<< 30/830-5047 ---> nincs pluvio adat, 120 Ohm bekötése szükséges, a nulla földelve, nincs földelőbilincs
+4 >> 418.08 >>> 62615-Tiszalök <<< 42/278-406 ---> ok, nincs földelőbilincs, 120 Ohm bekötése szükséges
+5 >> 419.11 >>> 67207-Gyula-Itceér <<< 30/8152414 ---> ok, akkumulátoráthidaló kábel pótolva, működési gond Utek feladata
+6 >> 421.08 >>> 46609-Soltszentimre <<< 30/466-9832 ---> ok, a nulla földelve, Pluvionak nincsen szintezője, 120 Ohm bekötése szükséges
+6 >> 422.08 >>> 67113-Elek <<< 30/7433733 ---> 
+7 >> 423.12 >>> 62120-Encs <<< 46/385-747 ---> áramszünet bejelentve 2012.ápr.24.-én, adatok rendben, 120 Ohm bekötése szükséges, pluvio gyári számát fel kell írni
+7 >> 424.08 >>> 35806-Adony <<< 06 20 524 5147 ---> 
+8 >> 424.08 >>> 55612-Kétpó <<< 06-30/748-4127 ---> pluviot kell felszerelni
+9 >> 425.08 >>> 56211-Kunszentmárton <<< 06-30/748-4116 ---> nincs pluvio adat, 120 Ohm bekötése szükséges
+10 >> 425.12 >>> 54715-Kunhegyes <<< 06-30/748-4131 ---> 120 Ohm bekötése szükséges
+11 >> 426.08 >>> 45806-Cegléd <<< 06-30/415-6767 ---> erős áram megszerelve
+12 >> 426.12 >>> 45803-Törtel <<< 06-30/415-6767 ---> minden rendben
+12 >> 427.08 >>> 54308-Tiszaörvény <<< 06-30/445-6116 ---> 
+13 >> 427.08 >>> 56117-Lakitelek <<< 06-30/415-6767 ---> minden rendben
+13 >> 427.12 >>> 54716-Kisköre <<< 06-30/748-4147 ---> 
+14 >> 427.12 >>> 56500-Tiszaalpár <<< +36306338143 ---> minden rendben
+15 >> 428.08 >>> 46800-Kiskunfélegyháza <<< +36304750279 ---> erős áram megszerelve
+15 >> 428.08 >>> 57113-Baks-Dongér g.h. <<< +36304756369 ---> 
+16 >> 428.12 >>> 47300-Jászszentlászló <<< +36306338166 ---> erős áram megszerelve
+16 >> 428.12 >>> 57204-Kéktó <<< +36303830901 ---> 
+17 >> 429.08 >>> 58209-Makó <<< +36304358273 ---> minden rendben
+17 >> 429.08 >>> 58603-Kübekháza csat. Őrh. <<< +36304158104 ---> 
+17 >> 429.12 >>> 57601-Szikáncs csat. őrh. <<< +36306338123 ---> 
+17 >> 430.08 >>> 55807-Dévaványa <<< 30/7433722 ---> 
+18 >> 502.08 >>> 46515-Solt <<< 30/466-9805 ---> 
+19 >> 502.12 >>> 38806-Báta <<< 06 20 525 5024 ---> 
+20 >> 503.08 >>> 39408-Karapancsa <<< 30/475-6699 ---> minden rendben
+21 >> 503.12 >>> 38805-Sárhát II. (Homorúd) <<< 30/475-6699 ---> minden rendben
+22 >> 504.07 >>> 38535-Szentlőrinc <<< 30/8464121 ---> 
+23 >> 504.10 >>> 39500-Drávaszabolcs <<< 30/5124227 ---> 
+24 >> 504.14 >>> 39214-Villány <<< 20/9515966 ---> 
+25 >> 507.10 >>> 62614-Tokaj <<< 70/408-71-31 ---> központi resetre másfélórán át újraindulgatott mire sikerült (tesztelés Lajosmizsén)
+26 >> 508.08 >>> 73211-Mátészalka <<< (20) 275 9625 ---> 
+27 >> 508.12 >>> 73301-Szamosújlak <<< (30) 3736 471 ---> 
+28 >> 509.08 >>> 55806-Ecsegfalva <<< 30/4862438 ---> minden rendben, hiányzik a higroklip shildje
+29 >> 509.12 >>> 56408-Gyoma <<< 30/2736347 ---> 
+30 >> 510.08 >>> 56311-Peres <<< 30/7433735 ---> KPE csövek rögzítése az oszlophoz szükséges	
+
+1 414.08 >>>> 47.43272,21.40617 <<<< 30/284-4582 <<<< 9Debr087Hajdúszoboszló,2,1,0,5,21,18,0 ---> 
+2 414.12 >>>> 47.63282,21.37362 <<<< 30/911-6973 <<<< 9Debr085Balmazújváros,2,2,0,5,5,1,0 ---> nincs pluvio adat, kábelcsere kell
+3 417.08 >>>> 47.86228,21.38205 <<<< 30/830-5047 <<<< 9Debr088Hajdúnánás,2,2,4,5,40,24,0 ---> nincs pluvio adat, kábelcsere kell, a nulla földelve, nincs földelőbilincs
+4 418.08 >>>> 48.02532,21.30457 <<<< 42/278-406 <<<< 9Debr089Tiszalök,2,1,0,5,20,18,0 ---> ok, nincs földelőbilincs
+5 419.11 >>>> 46.6636,21.29659 <<<< 30/8152414 <<<< cGyul127Gyula-Itceér,2,1,0,5,36,34,0 ---> ok, akkumulátoráthidaló kábel hiányzik
+6 421.08 >>>> 46.77559,19.28187 <<<< 30/466-9832 <<<< 3Baja031Soltszentimre,2,2,4,5,62,60,drótcsere ---> ok, a nulla földelve, Pluvionak nincsen szintezője
+7 423.12 >>>> 48.32572,21.11775 <<<< 46/385-747 <<<< 8Misk073Encs,2,1,0,5,35,0,0 ---> áramszünet bejelentve 2012.ápr.24.-én, adatok rendben
+8 424.08 >>>> 47.07672,20.48136 <<<< 06-30/748-4127 <<<< aSzol098Kétpó,2,2,0,5,23,21,1 ---> ok, pluvio utólag lesz felszerelve, nincs földelőbilincs 
+9 425.08 >>>> 46.84633,20.26567 <<<< 06-30/748-4116 <<<< aSzol100Kunszentmárton,2,2,0,5,14,10,0 ---> nincs földelőbilincs 
+10 425.12 >>>> 47.36561,20.63181 <<<< 06-30/748-4131 <<<< aSzol097Kunhegyes,1,2,0,5,21,11,0 ---> 
+11 426.08 >>>> 47.15305,19.8015 <<<< 06-30/415-6767 <<<< aSzol107Cegléd,2,2,0,5,3,1,1 ---> 
+12 426.12 >>>> 47.11842,19.93555 <<<< 06-30/415-6767 <<<< aSzol103Törtel,2,1,0,5,13,0,1 ---> 
+13 427.08 >>>> 46.87691,20.00589 <<<< 06-30/415-6767 <<<< aSzol101Lakitelek,2,2,0,5,32,30,0 ---> 
+14 427.12 >>>> 46.79794,20.00351 <<<< +36306338143 <<<< bSzeg117Tiszaalpár,2,2,0,5,40,38,1 ---> 
+15 428.08 >>>> 46.72729,19.86912 <<<< +36304750279 <<<< bSzeg113Kiskunfélegyháza,2,2,0,5,16,14,1 ---> 
+16 428.12 >>>> 46.5731,19.74915 <<<< +36306338166 <<<< bSzeg112Jászszentlászló,2,2,0,5,16,14,1 ---> 
+17 502.08 >>>> 46.79418,19.00678 <<<< 30/466-9805 <<<< 3Baja033Solt,2,2,4,5,25,18,0 ---> 
+18 502.12 >>>> 46.1307,18.77845 <<<< 06 20 525 5024 <<<< 4Szék034Báta,2,2,0,5,18,11,0 ---> alvás Baja
+19 503.08 >>>> 45.94378,18.89412 <<<< 30/475-6699 <<<< 3Baja028Karapancsa,2,2,0,5,23,14,0 ---> 
+20 503.12 >>>> 46.02143,18.8061 <<<< 30/475-6699 <<<< 3Baja029Mohács-Sárhát,2,2,4,5,27,24,0 ---> alvás Anna bár 0630 2044 723
+21 504.07 >>>> 46.03513,18.00724 <<<< 30/8464121 <<<< 5Pécs050Szentlőrinc,2,1,0,5,30,26,0 ---> 
+22 504.10 >>>> 45.79099,18.20514 <<<< 30/5124227 <<<< 5Pécs045Drávaszabolcs,2,2,4,5,21,19,0 ---> 
+23 504.14 >>>> 45.87564,18.47065 <<<< 20/9515966 <<<< 5Pécs047Villány,2,2,0,5,26,18,0 ---> 
+24 507.10 >>>> 48.10714,21.42047 <<<< 70/408-71-31 <<<< 8Misk071Tokaj,2,1,0,5,25,25,0 ---> +a négy állomás rendbehozatala, alvás Mátészalka
+25 508.08 >>>> 47.95239,22.31944 <<<< (20) 275 9625 <<<< 7Nyír067Mátészalka,2,1,0,5,55,50,favágás ---> 
+26 508.12 >>>> 47.91214,22.59231 <<<< (30) 3736 471 <<<< 7Nyír062Szamosújlak,2,2,0,5,20,18,0 ---> alvás Mátészalka
+27 509.08 >>>> 47.15292,20.9171 <<<< 30/4862438 <<<< cGyul134Ecsegfalva,2,2,0,5,21,19,0 ---> 
+28 509.12 >>>> 46.939,20.84659 <<<< 30/2736347 <<<< cGyul139Gyoma,2,2,4,5,28,28,0 ---> alvás Gyoma
+29 510.08 >>>> 46.94436,20.67514 <<<< 30/7433735 <<<< cGyul138Peres,2,1,0,10,33,33,0 ---> 
+30 511.08 >>>> 46.20604,20.46601 <<<< +36304358273 <<<< bSzeg114Makó,2,2,0,5,19,18,0 ---> folytatásban Sándorfalván alap+kerítés

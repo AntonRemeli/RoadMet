@@ -1,0 +1,38 @@
+1 503.08 >>>>> 46.79794,20.00351 <<<< bSzeg117Tiszaalpár,2,2,0,5,40,38,1 ---> 13m homok ---> 2 ---> ok, kötött agyagos száraz talaj, földelőcső és fedő hiányzik ---> minden rendben ---> 
+2 503.09 >>>>> 46.72729,19.86912 <<<< bSzeg113Kiskunfélegyháza,2,2,0,5,16,14,1 ---> 13m homok ---> 1 ---> ok, homokos talaj ---> erős áram megszerelve ---> 
+3 503.10 >>>>> 46.5731,19.74915 <<<< bSzeg112Jászszentlászló,2,2,0,5,16,14,1 ---> 45m ---> 3 ---> ok, homokos gyepes talaj ---> erős áram megszerelve ---> 
+3 503.12 >>>>> 46.16222,20.26855 <<<< bSzeg122Kübekháza csat. őrház,3,3,4,5,46,42,1 ---> 35m homok, kerítés NEM KELL! ---> 2 ---> ---> ---> 
+4 503.13 >>>>> 46.20604,20.46601 <<<< bSzeg114Makó,2,2,0,5,19,18,0 ---> 33m homok ---> 2 ---> ok, kötött agyagos talaj ---> minden rendben ---> 
+4 503.14 >>>>> 46.35913,20.45613 <<<< bSzeg120Szikáncs csat. őrház,3,3,4,5,37,17,0 ---> 30m homok, kerítés NEM KELL! ---> 2 ---> ---> ---> 
+4 503.15 >>>>> 46.56905,20.39406 <<<< Bszeg115Derekegyház-Kéktó,3,3,4,5,21,19,0 ---> 7m sár, új koordináták, Huszár ABC-nél jobbra 300m ---> 1 ---> ---> ---> 
+4 503.17 >>>>> 46.55637,20.09085 <<<< bSzeg121Baks-dongér gát.h.,3,3,4,5,43,14,1 ---> 9m, kerítés NEM KELL! ---> 1 ---> ---> ---> 
+5 504.08 >>>>> 47.15305,19.8015 <<<< aSzol107Cegléd,2,2,0,5,3,1,1 ---> 60m homok ---> 3 ---> ok, laza talaj ---> erős áram megszerelve ---> 
+6 504.09 >>>>> 47.11842,19.93555 <<<< aSzol103Törtel,2,1,0,5,13,0,1 ---> 0m lengőkábel oszlopra ---> 0 ---> ok, laza talaj ---> minden rendben ---> 
+7 504.11 >>>>> 47.36561,20.63181 <<<< aSzol097Kunhegyes,1,2,0,5,21,11,0 ---> 15m ---> 2 ---> ok, törmelékes talaj ---> 120 Ohm bekötése szükséges ---> 
+8 504.13 >>>>> 47.07672,20.48136 <<<< aSzol098Kétpó,2,2,0,5,23,21,1 ---> 25m ---> 2 ---> ok, kötött talaj, nincs földelőbilincs ---> pluviot kell felszerelni ---> 
+9 504.15 >>>>> 46.84633,20.26567 <<<< aSzol100Kunszentmárton,2,2,0,5,14,10,0 ---> 8m ---> 1 ---> ok, kötöttebb laza talaj, nincs földelőbilincs ---> nincs pluvio adat, 120 Ohm bekötése szükséges ---> 
+10 504.16 >>>>> 46.87691,20.00589 <<<< aSzol101Lakitelek,2,2,0,5,32,30,0 ---> 12m homok ---> 1 ---> ok, laza talaj ---> minden rendben ---> 
+11 507.08 >>>>> 46.77559,19.28187 <<<< 3Baja031Soltszentimre,2,2,4,5,62,60,drótcsere ---> 5m, nincs drótcsere, udvarba, kerítés NEM KELL! ---> 1 ---> ok, kötött tömör talaj ---> ok, a nulla földelve, Pluvionak nincsen szintezője, 120 Ohm bekötése szükséges ---> 21.17,50ig volt
+12 507.09 >>>>> 46.79418,19.00678 <<<< 3Baja033Solt,2,2,4,5,25,18,0 ---> 22m kerítés NEM KELL! ló, birka? ---> 2 ---> ok, erősen kötött rögös száraz talaj ---> ---> 
+13 507.11 >>>>> 46.1307,18.77845 <<<< 4Szék034Báta,2,2,0,5,18,11,0 ---> 10m ---> 1 ---> ok, laza talaj ---> ---> 
+14 507.12 >>>>> 46.02143,18.8061 <<<< 3Baja029Mohács-Sárhát,2,2,4,5,27,24,0 ---> 22m, helyszín módosítás Mohács-Homorúd gátőrházra (45.968669,18.779486), kerítés NEM KELL! ---> 2 ---> ok, kötött talaj ---> minden rendben ---> 
+15 507.13 >>>>> 45.94378,18.89412 <<<< 3Baja028Karapancsa,2,2,0,5,23,14,0 ---> 15m 0Ft ---> 0 ---> ok, törmelékes, vezetékes talaj miatt arrébbtéve ---> minden rendben ---> 
+16 507.15 >>>>> 46.03513,18.00724 <<<< 5Pécs050Szentlőrinc,2,1,0,5,30,26,0 ---> 0m, áram helyben! ---> 0 ---> ok, kötött talaj nincs földelőcső és sapka ---> ---> 
+17 507.16 >>>>> 45.79099,18.20514 <<<< 5Pécs045Drávaszabolcs,2,2,4,5,21,19,0 ---> 7m sziklás, kerítés NEM KELL!, üzemen kívüli saroklámpa kábele használható ---> 1 ---> ok, törmelékes talaj, földelőnyársat nem lehet leverni, fektetni kell ---> ---> 
+18 507.17 >>>>> 45.87564,18.47065 <<<< 5Pécs047Villány,2,2,0,5,26,18,0 ---> 20m ---> 1 ---> ok, laza talaj ---> ---> 
+19 509.08 >>>>> 48.32572,21.11775 <<<< 8Misk073Encs,2,1,0,5,35,0,0 ---> 12mx ---> 1 ---> ok, laza talaj ---> áramszünet bejelentve 2012.ápr.24.-én, adatok rendben, 120 Ohm bekötése szükséges, pluvio gyári számát fel kell írni ---> ok 24reggel óta megy, csak pluvio van
+20 509.09 >>>>> 48.10714,21.42047 <<<< 8Misk071Tokaj,2,1,0,5,25,25,0 ---> 18m ---> 1 ---> ok, laza talaj ---> központi resetre másfélórán át újraindulgatott mire sikerült (tesztelés Lajosmizsén) ---> 
+21 509.11 >>>>> 47.95239,22.31944 <<<< 7Nyír067Mátészalka,2,1,0,5,55,50,favágás ---> 22m ---> 1 ---> ok, homokos talaj ---> ---> 
+22 509.12 >>>>> 47.91214,22.59231 <<<< 7Nyír062Szamosújlak,2,2,0,5,20,18,0 ---> 8m ---> 1 ---> ok, kötöttebb laza talaj ---> ---> 
+23 509.14 >>>>> 47.43272,21.40617 <<<< 9Debr087Hajdúszoboszló,2,1,0,5,21,18,0 ---> 11m ---> 1 ---> ok, laza talaj ---> pluvio rs485 adatágcsere , 120 Ohm bekötése szükséges ---> 
+24 509.15 >>>>> 47.63282,21.37362 <<<< 9Debr085Balmazújváros,2,2,0,5,5,1,0 ---> 0m ---> 0 ---> ---> pluvio rs485 adatágcsere, 120 Ohm bekötése szükséges ---> 23.11-kor leállt
+25 509.16 >>>>> 47.86228,21.38205 <<<< 9Debr088Hajdúnánás,2,2,4,5,40,24,0 ---> 5m kőkemény ---> 1 ---> ok, kötött talaj, nincs földelőbilincs ---> nincs pluvio adat, 120 Ohm bekötése szükséges, a nulla földelve, nincs földelőbilincs ---> modem sincs
+26 509.17 >>>>> 48.02532,21.30457 <<<< 9Debr089Tiszalök,2,1,0,5,20,18,0 ---> 10m ---> 1 ---> ok, törmelékes talaj, nincs földelőbilincs ---> ok, nincs földelőbilincs, 120 Ohm bekötése szükséges ---> hol van hol nincs
+27 510.09 >>>>> 47.15292,20.9171 <<<< cGyul134Ecsegfalva,2,2,0,5,21,19,0 ---> 19m ---> 2 ---> ok, kötött talaj ---> minden rendben, hiányzik a higroklip shildje ---> 
+27 510.10 >>>>> 47.02199,20.93723 <<<< cGyul137Dévaványa,3,3,4,5,19,10,0 ---> 25m udvarba áthelyezve, kerítés NEM KELL! ---> 3 ---> ---> ---> 
+28 510.11 >>>>> 46.939,20.84659 <<<< cGyul139Gyoma,2,2,4,5,28,28,0 ---> 15m kerítés NEM KELL! ---> 2 ---> ok, kötött talaj ---> ---> 
+29 510.12 >>>>> 46.94436,20.67514 <<<< cGyul138Peres,2,1,0,10,33,33,0 ---> 13m, Gyula-Itzeér rendbehozatala ---> 2 ---> ok, jobban kötött talaj ---> KPE csövek rögzítése az oszlophoz szükséges ---> 
+30 510.14 >>>>> 46.6636,21.29659 <<<< cGyul127Gyula-Itceér,2,1,0,5,36,34,0 ---> 10m ---> 2 ---> ok, bazalttörmelékes sérülésveszélyes talaj ---> ok, akkumulátoráthidaló kábel pótolva, működési gond Utek feladata ---> 21.06 leállt, csak m odem van
+30 510.15 >>>>> 46.532886,21.232538 <<<< cGyul126Elek,3,3,2,5,28,26,0 ---> 38m ---> 3 ---> ---> ---> modem sincs
+30 517.08 >>>>> 47.10798,18.87268 <<<< 4Szék038Adony,3,3,0,5,55,50,0 ---> 50m ---> 3 ---> ---> ---> 
+
